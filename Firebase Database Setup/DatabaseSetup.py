@@ -526,7 +526,7 @@ def main():
     print("> Finished Adding Valid Ingredients")
     return
 
-main()
+# main()
 
 # remove all special characters if any, remove spaces
 # 1. check if all letters is present. how much percent does the characters appear on the actual recipe ingredient

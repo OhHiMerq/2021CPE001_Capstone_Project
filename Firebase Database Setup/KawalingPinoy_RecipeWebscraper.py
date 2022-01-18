@@ -184,6 +184,7 @@ choosedRecipes = ['Avocado Sago Jelly',
     'Tinolang Manok (Chicken Tinola)','Pork Adobo','Sinigang na Baboy']
 
 def main():
+    global fcon
     fcon = DatabaseSetup.Firebase()
     fcon.Clear_Table('SysRecipe')
     fcon.Clear_Table('WebRecipeDetail')
