@@ -158,11 +158,17 @@ choosedRecipes = ['Avocado Sago Jelly',
     'Champorado',
     'Ginisang Sayote',
     'Ginataang Puso ng Saging',]
-fcon = DatabaseSetup.Firebase()
-fcon.Clear_Table('SysRecipe')
-fcon.Clear_Table('WebRecipeDetail')
-pageMax = 33
-for page in range(pageMax):
-    load_recipes(str(page + 1))
-# load_recipes('1')
-print("##### DONE WEBSCRAPING #####")
+
+def main():
+    fcon = DatabaseSetup.Firebase()
+    fcon.Clear_Table('SysRecipe')
+    fcon.Clear_Table('WebRecipeDetail')
+    pageMax = 33
+    for page in range(pageMax):
+        load_recipes(str(page + 1))
+    # load_recipes('1')
+    print("##### DONE WEBSCRAPING #####")
+
+#main() # run lang to pag ififilter na
+
+print(len(choosedRecipes))
