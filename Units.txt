@@ -1,6 +1,5 @@
 Assumed gram equivalents
 
-
 pack
 cup
 tablespoon
@@ -36,8 +35,8 @@ quart
 large
 packet
 ml
-gram
-tablespoons
+
+
 sheet
 egg
 head
@@ -62,3 +61,22 @@ inch
 tb
 in
 bunch
+
+Automatic with Device
+tablespoons
+gram
+lb
+
+Manually Defined
+
+cup
+pack
+
+
+
+
+
+
+
+
+

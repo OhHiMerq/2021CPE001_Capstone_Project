@@ -1,0 +1,1348 @@
+Avocado
+Avocado Sago Jelly: {6} {} {avocados}
+
+####################
+Egg
+Bibingka: {3} {} {eggs, beaten}
+Bibingka: {2} {} {salted eggs, peeled and sliced lengthwise}
+
+####################
+Butter
+Bibingka: {1/4} {cup} {melted butter}
+
+####################
+Banana Heart
+
+####################
+Onion
+
+####################
+Garlic
+
+####################
+Pork Belly
+
+####################
+Ground Pork
+
+####################
+Chicken Meat
+
+####################
+Coconut Milk
+Avocado Sago Jelly: {1/2} {cup} {condensed milk}
+Bibingka: {1 1/2} {cups} {coconut milk}
+Champorado: {1/2} {cup} {evaporated milk}
+
+####################
+Chili Pepper
+
+####################
+Shrimp
+
+####################
+Mussels
+
+####################
+Lemon
+Avocado Sago Jelly: {} {} {lemon juice}
+
+####################
+Calamansi
+
+####################
+Littleneck Clam
+
+####################
+Fresh Milk
+
+####################
+Lettuce
+
+####################
+Lettuce Heart
+
+####################
+Ubod
+
+####################
+Carrot
+
+####################
+Green Beans
+
+####################
+Bean Sprouts
+
+####################
+Desiccated Coconut
+
+####################
+Green Onion
+
+####################
+Shiitake Mushroom
+
+####################
+Water Chestnut
+Avocado Sago Jelly: {3} {cups} {water}
+Bibingka: {1/2} {} {cup water}
+Champorado: {5} {cups} {water}
+
+####################
+Ginger
+
+####################
+Cantaloupe
+
+####################
+Jackfruit
+
+####################
+Broccoli
+
+####################
+Red Bell Pepper
+Avocado Sago Jelly: {1/2} {pack} {(48 grams) clear unflavored jelly}
+
+####################
+Tomato
+
+####################
+Sweet Pea
+
+####################
+Bacon
+
+####################
+Green Pea
+
+####################
+Ham
+
+####################
+Pineapple
+
+####################
+Cilantro
+
+####################
+Jalapeno Pepper
+
+####################
+Lime
+
+####################
+Beef Bottom Round
+
+####################
+Hard-Boiled Egg
+
+####################
+Okra
+
+####################
+Ground Beef
+
+####################
+Green Bell Pepper
+
+####################
+Gabi
+
+####################
+Radish
+
+####################
+Sitaw
+
+####################
+Eggplant
+
+####################
+Banana
+
+####################
+Tamarind
+
+####################
+Bok Choy
+
+####################
+Beef Tongue
+
+####################
+Reserved Broth
+
+####################
+Catfish
+
+####################
+Mustard Leaves
+
+####################
+Pork Hamonado Sausage
+
+####################
+Cabbage
+
+####################
+Chicken Broth
+
+####################
+Peppercorn
+
+####################
+Beef Shanks
+
+####################
+Guava
+
+####################
+Kangkong
+
+####################
+Beef Cube
+
+####################
+Button Mushroom
+
+####################
+Pechay
+
+####################
+Goat Meat
+
+####################
+Pork Shoulder
+
+####################
+Pork Liver
+
+####################
+Garbanzo Bean
+
+####################
+Egg Yolk
+
+####################
+Tofu
+
+####################
+Tilapia Fillet
+
+####################
+Salmon Fillet
+
+####################
+Coconut
+
+####################
+Sayote
+
+####################
+Chicken Skin
+
+####################
+Egg White
+
+####################
+Bangus Belly
+
+####################
+Chicken Thigh
+
+####################
+Saba Banana
+
+####################
+Smelt Fish
+
+####################
+Pork Bone
+
+####################
+Beef Bone
+
+####################
+Pork Intestine
+
+####################
+Miki Noodles
+
+####################
+Shrimp Heads/Shells
+
+####################
+Celery Stalk
+
+####################
+White Bread
+
+####################
+Milk
+
+####################
+Ampalaya
+
+####################
+Mango
+
+####################
+Squid
+
+####################
+Pork Tenderloin
+
+####################
+Boneless Bangus
+
+####################
+Pork Face
+
+####################
+Pig Brain
+
+####################
+Pork Spare Rib
+
+####################
+Pumpkin
+
+####################
+Lechon Kawali
+
+####################
+Kamote Leaf
+
+####################
+Kamias
+
+####################
+Salmon Belly
+
+####################
+Seafood Soup Base
+
+####################
+Crab Meat
+
+####################
+Corn Kernel
+
+####################
+Imitation Crab
+
+####################
+Chicken Breast
+
+####################
+Sausage
+
+####################
+Pandan Leaf
+
+####################
+Asparagus
+
+####################
+Ube Halaya
+
+####################
+Lechen Flan
+
+####################
+Cremini Mushroom
+
+####################
+Chow Mein Noodles
+
+####################
+Celery
+
+####################
+Milkfish
+
+####################
+Baby Back Ribs
+
+####################
+Honeycomb Tripe
+
+####################
+Ox Feet
+
+####################
+Beef Broth
+
+####################
+Salay Salay Fish
+
+####################
+Beef Chuck Roast
+
+####################
+Chicken Stock
+
+####################
+Fish Ball
+
+####################
+Lemongrass Stalk
+
+####################
+Lemongrass
+
+####################
+Buttermilk
+
+####################
+Pork Butt
+
+####################
+Spinach
+
+####################
+Chicharon
+
+####################
+Smoked Fish
+
+####################
+Bottle Gourd
+
+####################
+Grape Tomato
+
+####################
+Pear
+
+####################
+Top Round
+
+####################
+Sirloin
+
+####################
+Mozarella Cheese
+Bibingka: {2} {ounces} {cream cheese, sliced thinly (you can substitute kesong puti or queso de bola)}
+
+####################
+Salsa
+
+####################
+Sour Cream
+Avocado Sago Jelly: {1} {cup} {all-purpose cream}
+
+####################
+Yakisoba Noodle
+
+####################
+Chicken Liver
+
+####################
+Cooked Rice
+Avocado Sago Jelly: {1} {cup} {cooked mini sago}
+Bibingka: {2} {cups} {rice flour}
+Bibingka: {1/2} {cup} {glutinous rice flour}
+Champorado: {1} {cup} {glutinous rice}
+
+####################
+Beef Sirloin
+
+####################
+Pork Ham
+
+####################
+Edamame
+
+####################
+Strawberry
+
+####################
+Chicken Feet
+
+####################
+Chicken Wing
+
+####################
+Beef Tripe
+
+####################
+Grouper
+
+####################
+Furikake
+
+####################
+Unsalted Butter
+
+####################
+Spam
+
+####################
+Papaya
+
+####################
+Ube
+
+####################
+Yam
+
+####################
+Patola
+
+####################
+Lechon Sauce
+
+####################
+Pork Shank
+
+####################
+Orange Concentrate
+
+####################
+Mango Nectar
+
+####################
+Pork Kidney
+
+####################
+Pork Pancreas
+
+####################
+Orange Juice
+
+####################
+Cassava
+
+####################
+Pork Blood
+
+####################
+Beef Tendon
+
+####################
+Corn Cob
+
+####################
+Quail Egg
+
+####################
+Jumbo Refrigerated Biscuit
+
+####################
+Meatball
+
+####################
+Golden Pompano
+
+####################
+Chicken Cube
+
+####################
+Pandesal Roll
+
+####################
+Pork Rind
+
+####################
+Pig Face
+
+####################
+Snow pea
+
+####################
+Balut
+
+####################
+Chuck Steak
+
+####################
+Red Mung Bean
+
+####################
+Lemon Juice
+
+####################
+Oyster
+
+####################
+Pork Lung
+
+####################
+Mung Bean Sprout
+
+####################
+Luncheon Meat
+
+####################
+Singkamas
+
+####################
+Tilapia
+
+####################
+Pork Leg
+
+####################
+Lychee Syrup
+
+####################
+Sushi-grade Ahi
+
+####################
+Sigarilyas
+
+####################
+Pan de Leche
+Bibingka: {1} {tablespoon} {baking powder}
+
+####################
+Pandesal Rolls
+
+####################
+Silver Fish
+
+####################
+Pork Ear
+
+####################
+Beef Brisket
+
+####################
+Wonton
+
+####################
+Smoked Round Scad
+
+####################
+Pork Heart
+
+####################
+Blue Crab
+
+####################
+Coagulated Blood
+
+####################
+Dashi
+
+####################
+Udon
+
+####################
+Longganisa
+
+####################
+Chicken Drummette
+
+####################
+Beef Neck Bone
+
+####################
+Labong
+
+####################
+Gizzard
+
+####################
+Oxtail
+
+####################
+Frog Leg
+
+####################
+Cauliflower
+
+####################
+Jelly
+
+####################
+Sugar
+Avocado Sago Jelly: {1/2} {cup} {sugar}
+Bibingka: {1} {cup} {sugar}
+Champorado: {1/2} {cup} {sugar}
+
+####################
+Water
+
+####################
+Condensed Milk
+
+####################
+All-Purpose Cream
+Champorado: {4} {pieces} {tablea chocolate}
+
+####################
+Sago
+
+####################
+Rice Flour
+
+####################
+Baking Powder
+
+####################
+Salt
+Bibingka: {1} {teaspoon} {salt}
+
+####################
+Cream Cheese
+
+####################
+Canola oil
+
+####################
+Fish Sauce
+
+####################
+Pepper
+
+####################
+Paprika
+
+####################
+Olive oil
+
+####################
+Chorizo de Bilbao
+
+####################
+Tomato Sauce
+
+####################
+Rice
+
+####################
+Saffron
+
+####################
+Evaporated Milk
+
+####################
+Margarine
+
+####################
+Soy Sauce
+
+####################
+Mayonnaise
+
+####################
+Ground Pepper
+
+####################
+Vinegar
+
+####################
+Jasmine Rice
+
+####################
+Glutinous Rice
+
+####################
+Cooking Wine
+
+####################
+Sesame Oil
+
+####################
+Tablea Chocolate
+
+####################
+Tablea de Cacao
+
+####################
+Cold Water
+
+####################
+Ice
+
+####################
+Oyster Sauce
+
+####################
+Cornstarch
+
+####################
+Coconut Cream
+
+####################
+Brown Sugar
+
+####################
+Potato
+
+####################
+Sweet Potato
+
+####################
+Hotdog
+
+####################
+Sweet Pickle
+
+####################
+Cheddar Cheese
+
+####################
+Flour
+
+####################
+Oil
+
+####################
+Spring Roll Wrapper
+
+####################
+All-Purpose Flour
+
+####################
+Baking Soda
+
+####################
+Vanilla Extract
+
+####################
+Lasagna Noodles
+
+####################
+Italian Seasoning
+
+####################
+Spaghetti Noodles
+
+####################
+Spaghetti Sauce
+
+####################
+Quick-melt Cheese
+
+####################
+Bay Leaf
+
+####################
+Miso Soy Paste
+
+####################
+Tamarind Base
+
+####################
+Star Anise
+
+####################
+Fried Garlic
+
+####################
+Corned Beef
+
+####################
+Pickle Juice
+
+####################
+Tomato Paste
+
+####################
+Coffee Granules
+
+####################
+Curry Powder
+
+####################
+Pineapple Juice
+
+####################
+Liver Spread
+
+####################
+Olive
+
+####################
+Green agar-agar
+
+####################
+Red agar-agar
+
+####################
+Coconut Juice
+
+####################
+Pandan Extract
+
+####################
+Salted Black Beans
+
+####################
+Nata De Coco
+
+####################
+Kaong
+
+####################
+Light Cream
+
+####################
+Hot Water
+
+####################
+Pizza Dough
+
+####################
+Lard
+
+####################
+Breadcrumbs
+
+####################
+Bagoong
+
+####################
+Garlic Powder
+
+####################
+Shallot
+
+####################
+MSG
+
+####################
+Rock Salt
+
+####################
+Rock Pepper
+
+####################
+Tuna Flakes
+
+####################
+Sardines
+
+####################
+Arrowroot Starch
+
+####################
+Worcestershire Sauce
+
+####################
+Pineapple Chunks
+
+####################
+Active Dry Yeast
+
+####################
+Powdered Milk
+
+####################
+Sotanghon
+
+####################
+Chinese Wine
+
+####################
+Crab and Corn Mix
+
+####################
+Vegetable Oil
+
+####################
+Gulaman Cube
+
+####################
+Sweetened Bean
+
+####################
+Macapuno
+
+####################
+Shaved Ice
+
+####################
+Ice Cream
+
+####################
+Sesame Seed
+
+####################
+Red Pepper Flake
+
+####################
+Sriracha Chili Sauce
+
+####################
+White Wine
+
+####################
+Sweet Chili Sauce
+
+####################
+Vegetable Shortening
+
+####################
+Danggit
+
+####################
+Tamarind Powder
+
+####################
+Bihon
+
+####################
+Sweet Soy Sauce
+
+####################
+Roasted Peanuts
+
+####################
+Lomi Noodles
+
+####################
+Graham Cracker Crumbs
+
+####################
+Ground Coriander
+
+####################
+Raw Peanuts
+
+####################
+Cinnamon Stick
+
+####################
+Dried Chili
+
+####################
+Dry Mung Beans
+
+####################
+Banana Ketchup
+
+####################
+Cheese
+
+####################
+Salted Duck
+
+####################
+Cocoa
+
+####################
+Rice Vinegar
+
+####################
+Chili Powder
+
+####################
+Cumin
+
+####################
+Short-grain Rice
+
+####################
+Rice Noodle Stick
+
+####################
+Hot Sauce
+
+####################
+Chili Paste
+
+####################
+Fruit Cocktail
+
+####################
+Condensed Cream of Mushroom Soup
+
+####################
+Wonton Wrapper
+
+####################
+Black Pepper
+
+####################
+Chili Garlic Sauce
+
+####################
+Atchuete Powder
+
+####################
+Elbow Macaroni
+
+####################
+Apple Cider Vinegar
+
+####################
+Sweet Pickle Relish
+
+####################
+Black Olive
+
+####################
+Cherry
+
+####################
+Liquid Mango Flavoring
+
+####################
+Cream of Tartar
+
+####################
+Cocoa Powder
+
+####################
+Nutella
+
+####################
+Liquid Pandan Extract
+
+####################
+Pineapple Tidbits
+
+####################
+Raisin
+
+####################
+Red Food Coloring
+
+####################
+Unflavored Gelatin
+
+####################
+Cashew
+
+####################
+Honey
+
+####################
+Velvetta Cheese
+
+####################
+Fusilli Pasta
+
+####################
+Cinnamon
+
+####################
+Almond Extract
+
+####################
+Buko Pandan Flavor Extract
+
+####################
+Heavy Cream
+
+####################
+Nori Seaweed
+
+####################
+Turmeric
+
+####################
+Miswa
+
+####################
+Light Syrup
+
+####################
+Molasses
+
+####################
+Brandy
+
+####################
+Nutmeg
+
+####################
+Allspice
+
+####################
+Barbecue Sauce
+
+####################
+Mirin
+
+####################
+Sake
+
+####################
+Ube Extract
+
+####################
+Langka Extract
+
+####################
+Strawberry Jam
+
+####################
+Seasoning Sauce
+
+####################
+Dulce de Leche
+
+####################
+Lye Water
+
+####################
+Ube Food Coloring
+
+####################
+Gin
+
+####################
+Rum
+
+####################
+Chinese five-spice powder
+
+####################
+Bean Curd Sheet
+
+####################
+Magic Sarap Seasoning Powder
+
+####################
+Orange Food Coloring Powder
+
+####################
+Unflavored Jelly Mix
+
+####################
+Chocolate Chip
+
+####################
+Siomai Wrapper
+
+####################
+Hoisin Sauce
+
+####################
+Simple Syrup
+
+####################
+Kosher Salt
+
+####################
+Ground Peanut
+
+####################
+Egg Roll Wrapper
+
+####################
+Arnibal Syrup
+
+####################
+Banana Essence
+
+####################
+Liquid Seasoning
+
+####################
+Turmeric Powder
+
+####################
+Annato Seed
+
+####################
+Plum Sauce
+
+####################
+Walnut
+
+####################
+Dried Oregano
+
+####################
+Dried Basil
+
+####################
+Cake Flour
+
+####################
+7-Up
+
+####################
+Ube Jam
+
+####################
+Violet Food Color
+
+####################
+Powdered Sugar
+
+####################
+Annatto Powder
+
+####################
+Peanut Butter
+
+####################
+Cornstarch Noodles
+
+####################
+Macadamia Nut
+
+####################
+Sushi Rice
+
+####################
+Instant Coffee
+
+####################
+Dilis
+
+####################
+Dried Ancho Chili
+
+####################
+Dried Guajillo Chili
+
+####################
+Ground Clove
+
+####################
+Tapioca Flour
+
+####################
+Tonkatsu Sauce
+
+####################
+Pinipig
+
+####################
+Femented Tofu
+
+####################
+Sprite
+
+####################
+Dark Beer
+
+####################
+Instant Pancit Canton
+
+####################
+Anisado Wine
+
+####################
+Hog Casing
+
+####################
+Dry Sherry
+
+####################
+Ice Cube
+
+####################
+Saluyot
+
+####################
+Panutsa Syrup
+
+####################
+Pectin
+
+####################
+Table Cream
+Champorado: {4} {pieces} {tablea chocolate}
+
+####################

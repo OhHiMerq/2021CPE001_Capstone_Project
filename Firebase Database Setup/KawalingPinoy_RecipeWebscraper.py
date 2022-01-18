@@ -37,9 +37,12 @@ def load_recipes(page):
         recipe_name = soup.find('h1',class_='entry-title').text
         print(f'Recipe Name: {recipe_name}')
         if recipe_name in skipLink:
-            print(f'The recipe "{recipe_name}" was skipped.')
+            print(f'The recipe "{recipe_name}" was skipped. MUST BE SKIPPED')
             continue
-
+        
+        if recipe_name not in choosedRecipes:
+            print(f'The recipe "{recipe_name}" was skipped. NOT CHOOSED')
+            continue
         # RECIPE COOKTIME
         recipe_cooktime = ""
         if soup.find('div',class_ = 'wprm-recipe-block-container wprm-recipe-block-container-separate wprm-block-text-normal wprm-recipe-time-container wprm-recipe-total-time-container'):
@@ -149,7 +152,12 @@ print("##### SESSION STARTED #####")
 recipe_units = []
 recipe_ingredient_names = []
 #
-skipLink = ['Ten Filipino Desserts You Should Make for Christmas','Garlic Butter Fried Frog Legs']
+skipLink = ['Ten Filipino Desserts You Should Make for Christmas','Garlic Butter Fried Frog Legs','Kansi','Mais con Queso Ice Candy','Guyabano Juice','Atchara','Binatog']
+choosedRecipes = ['Avocado Sago Jelly',
+    'Bibingka',
+    'Champorado',
+    'Ginisang Sayote',
+    'Ginataang Puso ng Saging',]
 fcon = DatabaseSetup.Firebase()
 fcon.Clear_Table('SysRecipe')
 fcon.Clear_Table('WebRecipeDetail')
