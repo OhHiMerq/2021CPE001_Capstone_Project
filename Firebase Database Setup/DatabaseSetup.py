@@ -306,6 +306,7 @@ def main():
     fcon.Add_SysIngredient("Canola oil","","np","",npLink)
     fcon.Add_SysIngredient("Fish Sauce","","np","",npLink)
     fcon.Add_SysIngredient("Pepper","","np","",npLink)
+    fcon.Add_SysIngredient("Salt and Pepper","","np","",npLink)
     fcon.Add_SysIngredient("Paprika","","np","",npLink)
     fcon.Add_SysIngredient("Olive oil","","np","",npLink)
     fcon.Add_SysIngredient("Chorizo de Bilbao","","np","",npLink)
@@ -526,7 +527,7 @@ def main():
     print("> Finished Adding Valid Ingredients")
     return
 
-# main()
+main()
 
 # remove all special characters if any, remove spaces
 # 1. check if all letters is present. how much percent does the characters appear on the actual recipe ingredient
