@@ -1,0 +1,3204 @@
+Avocado
+Avocado Sago Jelly: {6} {} {avocados}
+
+####################
+Egg
+Pinakbet Tagalog: {1} {} {large eggplant, ends trimmed and cut into 1-inch thick}
+Bibingka: {3} {} {eggs, beaten}
+Bibingka: {2} {} {salted eggs, peeled and sliced lengthwise}
+Morcon: {4} {} {hard-boiled eggs, peeled and cut lengthwise into halves}
+Fried Okra: {2} {} {eggs}
+Filipino Scrambled Eggs: {6} {} {eggs}
+Sweet and Sour Fish: {1} {} {egg, well beaten}
+Adobong Talong: {4} {} {medium Filipino eggplant, stems trimmed and cut into 2-inch chunks}
+Brazo de Mercedes: {10} {} {egg yolks, beaten}
+Monay: {1} {} {egg}
+Pinakbet with Crispy Lechon: {1} {} {large eggplant, stemmed and cut into 1-inch thick}
+Crab and Corn Soup: {1} {} {egg}
+Ginataang Gulay: {2} {} {medium eggplant, ends trimmed and cut into 1-inch thickness}
+Lengua de Gato: {3} {} {egg whites, room temperature}
+Paksiw na Bangus: {1} {} {large eggplant, cut into 1-inch thick wedges}
+Loslos: {3} {} {eggs}
+Ginataang Talong: {5} {} {large eggplants, stems removed and cut into 1-inch pieces}
+Adobong Itlog: {6} {} {hardboiled eggs, peeled}
+Tinapa Fried Rice: {2} {} {eggs, well beaten}
+Ukoy: {1} {} {egg, beaten}
+Leche Flan: {12} {} {egg yolks, from large eggs}
+Chicken Sopas: {4} {} {hard-boiled eggs, peeled and halved}
+Yema Cake: {2} {large} {eggs, whites and yolks separated}
+Chicken Kare-Kare: {2} {} {large eggplant, cut into chunks}
+Dulce de Leche FLan: {6} {} {eggs}
+Sinigang na Salmon Belly sa Kamias: {1} {} {eggplant, stemmed and cut into chunks}
+Burger Steak: {1} {} {egg, well beaten}
+Pork Embutido: {3} {} {eggs, well-beaten}
+Kare-kareng Pata: {2} {} {large eggplant, ends trimmed and cut into 1-inch thick}
+Salt and Pepper Pork Chops: {1} {} {egg white}
+Laswa: {2} {} {medium eggplant}
+Tortang Talong: {4} {} {eggplants}
+Tortang Talong: {4} {} {eggs}
+Camaron Rebosado: {1} {} {egg}
+Chop Suey: {6} {} {hardboiled quail eggs, peeled}
+Sinigang na Baboy: {1} {} {eggplant, ends trimmed and sliced to 1/2-inch thick half-rounds}
+
+####################
+Butter
+Bibingka: {1/4} {cup} {melted butter}
+Filipino Scrambled Eggs: {2} {tablespoons} {butter}
+Sisig Pusit: {1} {tablespoon} {butter}
+Monay: {1/4} {cup} {melted butter}
+Pastillas de Leche: {2} {tablespoons} {butter}
+Lengua de Gato: {1} {cup} {softened butter}
+Lemongrass Roasted Chicken: {1} {quart} {buttermilk}
+Chicken a la King: {4} {tablespoons} {butter}
+Sizzling Tofu: {1} {tablespoon} {butter}
+Chicken Pastel: {2} {tablespoons} {butter}
+Yema Cake: {1/2} {cup} {butter, room temperature}
+Chicken Kare-Kare: {1/2} {cup} {peanut butter}
+Baby Back Ribs with Adobo Glaze: {1} {tablespoon} {butter}
+Kare-kareng Pata: {1} {cup} {peanut butter}
+Beef Salpicao: {2} {tablespoons} {butter}
+
+####################
+Banana Heart
+Ginataang Puso ng Saging: {2} {} {large banana hearts (about 4 pounds)}
+Kilawing Puso ng Saging: {2} {} {large banana heart}
+Banana Turon: {12} {} {saba bananas}
+Halo-Halo: {1/2} {cup} {sweetened saba bananas}
+Humba: {1} {package} {(1 ounce) dried banana blossoms}
+Pork Estofado: {4} {} {saba bananas, peeled and cut into 1-inch thick crosswise}
+Pork Pochero: {2} {} {saba bananas, peeled and cut into chunks}
+Filipino Pork Barbecue: {2} {cups} {banana ketchup}
+Sinigang na Salmon Belly sa Kamias: {1} {} {banana chili}
+Pork Embutido: {1/4} {cup} {banana ketchup}
+Batchoy Tagalog: {1/4} {pound} {pork heart}
+Chicken Tocino: {1/4} {cup} {banana ketchup}
+Chicken Pochero: {3} {} {saba bananas, peeled and halved}
+
+####################
+Onion
+Bopis: {1} {} {onion, peeled and chopped}
+Chicken Bicol Express: {1} {} {onion, peeled and chopped}
+Pinakbet Tagalog: {1} {} {onion, peeled and chopped}
+Tokwa’t Baboy: {1} {} {small onion, peeled and quarted}
+Ginataang Puso ng Saging: {1} {} {onion, peeled and chopped}
+Paella: {1} {} {onion, peeled and chopped}
+Lumpiang Ubod: {1} {} {onion, peeled and chopped}
+Ginisang Togue: {1} {} {onion, peeled and sliced thinly}
+Kilawing Puso ng Saging: {1} {} {onion, peeled and sliced thinly}
+Shrimp with Oyster Sauce: {1} {} {onion, peeled and sliced thinly}
+Chicken Afritada: {1} {} {small onion, peeled and sliced thinly}
+Instant Pot Filipino-style Spaghetti: {1} {} {onion, peeled and chopped}
+Filipino Scrambled Eggs: {1} {} {large onion, peeled and sliced thinly}
+Lengua Estofado: {1} {} {small onion, peeled and quartered}
+Lengua Estofado: {1} {} {small onion, peeled and chopped}
+Sinigang na Hito sa Miso: {1} {} {onion, peeled and chopped}
+Ginisang Repolyo: {1} {} {onion, peeled and sliced thinly}
+Sinigang na Baka sa Bayabas: {1} {} {onion, peeled and quartered}
+Ginisang Pechay with Oyster Sauce: {1} {} { onion, peeled and chopped}
+Tokwa’t Baboy with Tausi: {1} {} {onion, peeled and sliced thinly}
+Sweet and Sour Fish: {1} {} {onion, peeled and sliced thinly}
+Ginisang Sayote: {1} {} {onion peeled and chopped, peeled and chopped}
+Ginisang Sayote with Chicken: {1} {} {onion, peeled and chopped}
+Binagoongan Fried Rice: {1} {} {small onion, peeled and chopped}
+La Paz Batchoy: {1} {} {red onion, peeled and minced}
+Crispy Tuna Shanghai: {1/4} {cup} {green onions, finely chopped}
+Sisig Pusit: {1} {} {onion, peeled and diced}
+Sweet and Sour Pork: {1} {} {small onion, peeled and sliced thinly}
+Kinamatisang Baboy: {1} {} {onion, peeled and chopped}
+Pinakbet with Crispy Lechon: {1} {} {onion, peeled and chopped}
+Crispy Sisig: {1} {} {onion, peeled and diced}
+Ensaladang Pipino: {1} {} { small red onion, peeled and sliced thinly}
+Crab and Corn Soup: {} {} {green onions, chopped}
+Ginataang Gulay: {1} {} {onion, peeled and chopped}
+Chicken and Pork Adobo: {1} {} {onion, peeled and sliced thinly}
+Paksiw na Bangus: {1} {} {onion, peeled and sliced thinly}
+Instant Pot Chicken Adobo: {1} {} {onion, peeled and chopped}
+Ginataang Langka at Danggit: {1} {} {onion, peeled and chopped}
+Kilawing Labanos at Baboy: {1} {} {onion, peeled and sliced thinly}
+Corned Beef Spaghetti: {1} {} {onion, peeled and chopped}
+Beef Curry: {1} {} {onion, peeled and chopped}
+Miki Bihon: {1} {} {small onion, peeled and chopped}
+Miki Bihon: {} {} {green onions, chopped}
+Pancit Lomi Guisado: {1} {} {onion, peeled and sliced thinly}
+Ginataang Munggo at Baboy: {1} {} {onion, peeled and sliced thinly}
+Ginisang Munggo at Chicharon: {1} {} {onion, peeled and sliced thinly}
+Sotanghon at Upo Soup: {1} {} {small onion, peeled and sliced thinly}
+Ginataang Talong: {1} {} {onion, peeled and chopped}
+Adobong Itlog: {1} {} {small onion, peeled and chopped}
+Pork Adobo with Pineapple: {1} {} {onion, peeled and chopped}
+Beef Afritada: {1} {} {onion, peeled and chopped}
+Humba: {1} {} {small onion, peeled and sliced thinly}
+Adobo sa Gata: {1} {} {onion, peeled and sliced thinly}
+Crispy Chicken Livers a la Bistek: {1} {} {small onion, peeled and sliced thinly into rings}
+Tinapa Fried Rice: {1} {} {onion, peeled and chopped}
+Tinapa Fried Rice: {2} {} {green onions, chopped}
+Inihaw na Pusit (Grilled Squid): {1} {} {onion, peeled and finely chopped}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {} {large onion, peeled and sliced}
+Goto: {1} {} {onion, peeled and quartered}
+Chicken a la King: {1} {} {onion, peeled and chopped}
+Pineapple Pork Ribs: {1} {} {onion, peeled and chopped}
+Siopao Asado: {1} {} {small onion, peeled and chopped}
+Escabeche Lapu Lapu: {1} {} {onion, peeled and sliced thinly}
+Chicken Adobo: {1} {} {onion, peeled and sliced thinly}
+Lumpiang Sariwa: {1} {} {onion, peeled and chopped}
+Ukoy: {1/2} {cup} {green onions, chopped}
+Pork Estofado: {1} {} {onion, peeled and chopped}
+Adobong Manok sa Patis: {1} {} {onion, peeled and chopped}
+Chicken Caldereta: {1} {} {onion, peeled and chopped}
+Paksiw na Lechon: {1} {} {large onion, peeled and sliced thinly}
+Sizzling Tofu: {1} {} {onion, peeled and chopped}
+Batsui: {1} {} {onion, peeled and chopped}
+Chicken Bistek: {1} {} {onion, peeled and sliced}
+Pork Pochero: {1} {} {onion, peeled and chopped}
+Dinuguan: {1} {} {onion, peeled and chopped}
+Pininyahang Manok: {1} {} {onion, peeled and thinly sliced}
+Ginataang Hipon: {1} {} {onion, peeled and chopped}
+Ginataang Kalabasa, Sitaw at Hipon: {1} {} {onion, peeled and chopped}
+Nilagang Baka: {1} {} {large onion, peeled and quartered}
+Nilagang Baka: {} {} {green onions, optional}
+Adobong Sitaw with Pork: {1} {} {onion, peeled and sliced thinly}
+Laing: {1} {} {onion, peeled and chopped}
+Bangus sa Tausi: {1} {} {onion, peeled and sliced}
+Bicol Express: {1} {} {onion, peeled and sliced thinly}
+Pata Hamonado: {1} {} {onion, peeled and sliced thinly}
+Pininyahang Baboy: {1} {} {onion, peeled and chopped}
+Pork Afritada: {1} {} {onion, peeled and chopped}
+Sizzling Sisig: {1} {} {large onion, peeled and diced}
+Chicken Sopas: {1} {} {onion, peeled and quartered}
+Chicken Sopas: {1} {} {onion, peeled and chopped}
+Chicken Sopas: {} {} {green onions, chopped}
+Pork Menudo: {1} {} {onion, peeled and chopped}
+Chicken Pastel: {1} {} {onion, peeled and chopped}
+Chicken Sisig: {1} {} {onion, peeled and chopped}
+Binagoongan Baboy: {1} {} {onion, peeled and chopped}
+Chicken Kare-Kare: {1} {} {onion, peeled and sliced thinly}
+Pancit Bihon Guisado: {1} {} {onion, peeled and sliced thinly}
+Pancit Bihon Guisado: {} {} {green onions, chopped}
+Lumpiang Hubad: {1} {} {onion, peeled and chopped}
+Sinigang na Salmon Belly sa Kamias: {1} {} {small onion, peeled and quartered}
+Lumpia Shanghai: {1/2} {cup} {green onions, finely chopped}
+Burger Steak: {1} {} {small onion, peeled and grated}
+Pork Embutido: {1} {} {onion, peeled and chopped}
+Ginataang Sigarilyas at Kalabasa: {1} {} {onion, peeled and chopped}
+Ginisang Sardinas at Miswa: {1} {} {onion, peeled and sliced thinly}
+Beef Pares: {1} {} {onion, peeled and quartered}
+Beef Pares: {} {} {green onions, chopped}
+Pork Bistek: {1} {} {large onion, peeled and sliced thinly}
+Pork Bistek: {1} {} {small onion, peeled and sliced into rings}
+Kare-kareng Pata: {1} {} {medium onion, peeled and sliced thinly}
+Chop Suey with Tofu and Shiitake Mushrooms: {1} {} {small onion, peeled and sliced thinly}
+Salt and Pepper Pork Chops: {2} {} {green onions, chopped}
+Ginataang Seafood: {1} {} {onion, peeled and chopped}
+Sinigang na Baka: {1} {} {onion, peeled and quartered}
+Pancit Canton: {1} {} {onion. peeled and chopped}
+Batchoy Tagalog: {1} {} {onion}
+Nilagang Baboy: {1} {} {medium onion, peeled and quartered}
+Spicy Tahong: {1} {} {small onion}
+Adobong Kangkong: {1} {} {small onion}
+Beef Mechado: {1} {} {onion, peeled and chopped}
+Relyenong Bangus: {1} {} {small onion}
+Chicken Pochero: {1} {} {onion, peeled and thinly sliced}
+Bulalo: {1} {} {medium onion}
+Bulalo: {1} {} {green onion}
+Arroz Caldo: {1} {} {onion, peeled and chopped}
+Bagis: {1} {} {onion, peeled and chopped}
+Chop Suey: {1} {} {onion, peeled and sliced}
+Tinolang Manok (Chicken Tinola): {1} {} {small onion, peeled and sliced thinly}
+Pork Adobo: {1} {} {onion, peeled and sliced thinly}
+Sinigang na Baboy: {1} {} {medium onion, peeled and quartered}
+
+####################
+Garlic
+Bopis: {4} {cloves} {garlic, peeled and minced}
+Chicken Bicol Express: {4} {cloves} {garlic, peeled and minced}
+Pinakbet Tagalog: {2} {cloves} {garlic, peeled and minced}
+Tokwa’t Baboy: {1} {head} {garlic, peeled and crushed}
+Ginataang Puso ng Saging: {3} {cloves} {garlic, peeled and minced}
+Paella: {3} {cloves} {garlic, peeled and minced}
+Lumpiang Ubod: {2} {cloves} {garlic, peeled and minced}
+Ginisang Togue: {2} {cloves} {garlic, peeled and minced}
+Kilawing Puso ng Saging: {2} {cloves} {garlic, peeled and minced}
+Shrimp with Oyster Sauce: {4} {cloves} {garlic, peeled and minced}
+Chicken Afritada: {3} {cloves} {garlic, peeled and minced}
+Instant Pot Filipino-style Spaghetti: {2} {cloves} {garlic, peeled and minced}
+Lengua Estofado: {1} {head} {garlic, peeled and crushed}
+Lengua Estofado: {2} {cloves} {garlic, peeled and minced}
+Sinigang na Hito sa Miso: {3} {cloves} {garlic, peeled and minced}
+Ginisang Repolyo: {2} {cloves} {garlic, peeled and minced}
+Ginisang Pechay with Oyster Sauce: {2} {cloves} {garlic, peeled and minced}
+Tokwa’t Baboy with Tausi: {3} {cloves} {garlic, peeled and minced}
+Ginisang Sayote: {2} {cloves} {garlic, peeled and minced}
+Chicken Skin Chicharon: {4} {cloves} {garlic, peeled and pounded}
+Ginisang Sayote with Chicken: {2} {cloves} {garlic, peeled and minced}
+Binagoongan Fried Rice: {2} {cloves} {garlic, peeled and minced}
+La Paz Batchoy: {2} {cloves} {garlic, peeled and minced}
+Adobong Talong: {5} {cloves} {garlic, peeled and minced}
+Sisig Pusit: {2} {cloves} {garlic, peeled and minced}
+Kinamatisang Baboy: {3} {cloves} {garlic, peeled and minced}
+Pinakbet with Crispy Lechon: {2} {cloves} {garlic, peeled and minced}
+Ginataang Gulay: {2} {cloves} {garlic, peeled and minced}
+Crispy Tahong (Deep-Fried Mussels): {1} {teaspoon} {garlic powder}
+Chicken and Pork Adobo: {1} {head} {garlic, peeled and minced}
+Paksiw na Bangus: {4} {} {garlic, peeled and pounded}
+Loslos: {1} {head} {garlic, peeled and minced}
+Instant Pot Chicken Adobo: {6} {cloves} {garlic, peeled and minced}
+Grilled Tuna Belly: {2} {cloves} {garlic, peeled and minced}
+Ginataang Langka at Danggit: {4} {cloves} {garlic, peeled and minced}
+Kilawing Labanos at Baboy: {4} {cloves} {garlic, peeled and minced}
+Corned Beef Spaghetti: {2} {cloves} {garlic, peeled and minced}
+Beef Curry: {4} {cloves} {garlic, peeled and minced}
+Miki Bihon: {2} {cloves} {garlic, peeled and minced}
+Pancit Lomi Guisado: {2} {cloves} {garlic, peeled and minced}
+Lechon Kawali: {1} {head} {garlic, pounded}
+Lemongrass Roasted Chicken: {1} {head} {garlic, peeled and pounded}
+Ginataang Munggo at Baboy: {2} {cloves} {garlic, peeled and minced}
+Ginisang Munggo at Chicharon: {3} {cloves} {garlic, peeled and minced}
+Sotanghon at Upo Soup: {2} {cloves} {garlic, peeled and minced}
+Sotanghon at Upo Soup: {} {} {fried garlic bits, optional}
+Ginataang Talong: {2} {cloves} {garlic, peeled and minced}
+Adobong Itlog: {5} {cloves} {garlic, peeled and chopped}
+Pork Adobo with Pineapple: {1} {head} {garlic, peeled and minced}
+Slow Cooker Lechon: {1} {tablespoon} {garlic powder}
+Beef Afritada: {4} {cloves} {garlic, peeled and minced}
+Humba: {6} {cloves} {garlic, peeled and minced}
+Adobo sa Gata: {1} {head} {garlic, peeled and minced}
+Crispy Chicken Livers a la Bistek: {1} {head} {garlic, peeled and minced}
+Tinapa Fried Rice: {3} {cloves} {garlic, peeled and minced}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {teaspoon} {chili garlic sauce}
+Goto: {4} {cloves} {garlic, peeled and smashed}
+Beef Tapa: {1} {head} {garlic, peeled and minced}
+Chicken a la King: {3} {cloves} {garlic, peeled and pounded}
+Chicken a la King: {2} {cloves} {garlic, peeled and minced}
+Pineapple Pork Ribs: {2} {cloves} {garlic, peeled and minced }
+Siopao Asado: {2} {cloves} {garlic, peeled and minced}
+Escabeche Lapu Lapu: {3} {cloves} {garlic, peeled and minced}
+Chicken Inasal: {1} {head} {garlic, peeled and minced}
+Chicken Adobo: {1} {head} {garlic, peeled and minced}
+Lumpiang Sariwa: {2} {cloves} {garlic, peeled and minced}
+Chicken Adobo with Liver Spread: {1} {head} {garlic, peeled and minced}
+Pork Estofado: {6} {cloves} {garlic, peeled and minced}
+Adobong Manok sa Patis: {1} {head} {garlic, peeled and minced}
+Chicken Caldereta: {3} {cloves} {garlic, peeled and minced}
+Paksiw na Lechon: {1} {head} {garlic, peeled and minced}
+Lechon Manok: {1} {head} {garlic, peeled and minced}
+Inihaw na Liempo: {1} {head} {garlic, peeled and minced}
+Sizzling Tofu: {3} {cloves} {garlic, peeled and minced}
+Batsui: {3} {cloves} {garlic, peeled and minced}
+Chicken Tapa: {1} {head} {garlic, peeled and minced}
+Chicken Bistek: {4} {cloves} {garlic, peeled and minced}
+Pork Pochero: {2} {cloves} {garlic, peeled and minced}
+Dinuguan: {4} {cloves} {garlic, peeled and minced}
+Pininyahang Manok: {3} {cloves} {garlic, peeled and minced}
+Ginataang Hipon: {4} {cloves} {garlic, peeled and minced}
+Ginataang Kalabasa, Sitaw at Hipon: {3} {cloves} {garlic, peeled and minced}
+Adobong Sitaw with Pork: {5} {cloves} {garlic, peeled and minced}
+Adobong Sitaw with Pork: {} {} {fried garlic bits, optional}
+Laing: {4} {cloves} {garlic, peeled and minced}
+Bangus sa Tausi: {2} {cloves} {garlic, peeled and minced}
+Bicol Express: {4} {cloves} {garlic, peeled and minced}
+Pata Hamonado: {4} {cloves} {garlic, peeled and minced}
+Pork Chicharon: {1} {head} {garlic, peeled and crushed}
+Pininyahang Baboy: {2} {cloves} {garlic, peeled and minced}
+Pork Afritada: {2} {cloves} {garlic, peeled and minced}
+Sizzling Sisig: {1} {head} {garlic, peeled and crushed}
+Chicken Sopas: {4} {cloves} {garlic, peeled and crushed}
+Pork Menudo: {2} {cloves} {garlic, peeled and minced}
+Chicken Pastel: {1} {clove} {garlic, peeled and minced}
+Chicken Sisig: {3} {cloves} {garlic, peeled and minced}
+Binagoongan Baboy: {4} {cloves} {garlic, peeled and minced}
+Filipino Pork Barbecue: {1} {cup} {garlic, peeled and minced}
+Chicken Kare-Kare: {3} {cloves} {garlic, peeled and minced}
+Filipino-style Fried Chicken: {1} {head} {garlic, peeled and minced}
+Pancit Bihon Guisado: {2} {cloves} {garlic, peeled and minced}
+Lumpiang Hubad: {2} {cloves} {garlic, peeled and minced}
+Lumpia Shanghai: {3} {cloves} {garlic, peeled and minced}
+Baby Back Ribs with Adobo Glaze: {1} {} {head garlic, peeled and minced}
+Ginataang Sigarilyas at Kalabasa: {2} {cloves} {garlic, peeled and minced}
+Ginisang Sardinas at Miswa: {2} {cloves} {garlic, peeled and minced}
+Beef Pares: {4} {cloves} {garlic, peeled and pounded}
+Pork Bistek: {1} {head} {garlic, peeled and minced}
+Kare-kareng Pata: {3} {cloves} {garlic, peeled and minced}
+Filipino Beef Tapa: {1} {head} {garlic, peeled and minced}
+Chop Suey with Tofu and Shiitake Mushrooms: {2} {cloves} {garlic, peeled and minced}
+Salt and Pepper Pork Chops: {1} {head} {garlic, peeled and minced}
+Ginataang Seafood: {5} {cloves} {garlic, peeled and minced}
+Laswa: {1} {clove} {garlic}
+Pancit Canton: {2} {cloves} {garlic, peeled and minced}
+Batchoy Tagalog: {4} {cloves} {garlic}
+Beef Salpicao: {1} {head} { garlic, peeled and minced}
+Chicken Tocino: {1} {tablespoon} {garlic powder}
+Longganisa: {1} {} {head garlic}
+Spicy Tahong: {1} {} {head garlic}
+Adobong Kangkong: {6 to 7} {cloves} {garlic}
+Beef Mechado: {5} {cloves} {garlic, peeled and minced}
+Relyenong Bangus: {2} {cloves} {garlic}
+Chicken Pochero: {2} {cloves} {garlic, peeled and minced}
+Arroz Caldo: {3} {cloves} {garlic, peeled and minced}
+Bagis: {4} {cloves} {garlic, peeled and minced}
+Chop Suey: {2} {cloves} {garlic, peeled and minced}
+Tinolang Manok (Chicken Tinola): {3} {cloves} {garlic, peeled and minced}
+Pork Adobo: {1} {head} {garlic, peeled and minced}
+
+####################
+Pork Belly
+Bopis: {2} {pounds} {minced pork lungs }
+Pinakbet Tagalog: {1/2} {pound} {pork belly, cut into 1-inch cubes}
+Tokwa’t Baboy: {1} {piece} {(about 1/2 pound) pork ear}
+Tokwa’t Baboy: {1} {pound} {pork belly}
+Ginataang Puso ng Saging: {1/2} {pound} {pork belly, diced}
+Lumpiang Ubod: {1/4} {pound} {pork belly, diced}
+Kilawing Puso ng Saging: {1/2} {pound} {pork belly, cut into strips}
+Ginisang Repolyo: {1/2} {pound} { pork hamonado sausage,  sliced thinly in a bias}
+Ginisang Pechay with Oyster Sauce: {1/2} {pound} {ground pork}
+Tokwa’t Baboy with Tausi: {2} {pounds} {pork belly, cut into 2-inch cubes}
+Binagoongan Fried Rice: {1/2} {pound} {pork belly, finely diced}
+La Paz Batchoy: {3} {pounds} {pork bones}
+La Paz Batchoy: {1/2} {pound} {pork shoulder}
+La Paz Batchoy: {1/2} {pound} {pork intestines, cleaned}
+La Paz Batchoy: {1/2} {pound} {pork liver}
+Sweet and Sour Pork: {1} {pound} {pork tenderloin, cut into 1-inch cubes}
+Kinamatisang Baboy: {3} {pounds} {pork spare ribs, cut into 2-inch pieces}
+Sinaing na Tulingan: {1/2} {pound} {pork belly}
+Ginataang Gulay: {1/2} {pound} {pork belly, cut into 1-inch strips}
+Chicken and Pork Adobo: {1 1/2} {pounds} {pork shoulder or belly, cut into 2-inch cubes}
+Grilled Tuna Belly: {2} {pounds} {tuna belly, cut into serving portions}
+Kilawing Labanos at Baboy: {1} {pound} {pork belly, cut into 1/2-inch strips}
+Kilawing Labanos at Baboy: {1} {pound} {pork liver, cut into 1/2-inch strips}
+Lechon Kawali: {4} {pounds} {whole pork belly}
+Ginataang Munggo at Baboy: {1/2} {pound} {pork butt or pork belly, diced}
+Ginisang Munggo at Chicharon: {2} {cups} {chicharon (pork cracklings with attached meat) }
+Ginataang Talong: {1} {pound} {pork belly, cut into 1/2-inch strips}
+Pork Adobo with Pineapple: {3} {pounds} {pork butt, cut into 1 1/2-inch cubes}
+Slow Cooker Lechon: {3} {pounds} {pork belly with ribs}
+Humba: {2} {pounds} {pork belly, cut into 1-1/2 inch cubes}
+Adobo sa Gata: {3} {pounds} {pork shoulder, cut into 2-inch cubes}
+Homemade Holiday Ham: {6} {pounds} {Pork ham (pigue), cut into halves}
+Siopao Asado: {1} {pound} {pork butt or shoulder, cut into large chunks}
+Pork Estofado: {2} {pounds} {pork shoulder, cut into 2-inch cubes}
+Inihaw na Liempo: {2} {pounds} {pork belly, cut into 1/2-inch thick}
+Batsui: {1} {pound} {pork tenderloin, cut into small strips}
+Batsui: {1/3} {pound} {pork kidney, trimmed of fat and cut into small strips}
+Batsui: {1/3} {pound} {pork pancreas, cut into small strips}
+Pork Pochero: {2} {pounds} {pork belly, cut into 2-inch cubes}
+Pork Pochero: {1} {can} {(42 ounces) pork and beans}
+Dinuguan: {10} {ounces} {pork blood}
+Dinuguan: {2} {pounds} {pork belly, cut into 1/2-inch strips}
+Adobong Sitaw with Pork: {1} {pound} {pork belly, cut into thin strips}
+Laing: {1} {pound} {pork belly, diced}
+Pork Siomai: {1} {pound} {ground pork}
+Bicol Express: {2} {pounds} {pork belly, cut into 1-inch cubes}
+Pata Hamonado: {1} {} {(about 3 pounds) whole pork leg, cut into 2-inch thick pieces}
+Pork Chicharon: {2} {pounds} {pork rinds, cut into 2-inch sizes}
+Pininyahang Baboy: {2} {pounds} {pork tenderloin, cut into 1 1/2-inch cubes}
+Pork Afritada: {3} {pounds} {pork belly or pork butt, cut into 2-inch cubes}
+Pork Menudo: {2} {pounds} {boneless pork shoulder, cut into 1-inch cubes}
+Binagoongan Baboy: {2} {pounds} {pork belly, cut into 1-inch cubes}
+Filipino Pork Barbecue: {6} {pounds} {pork butt, sliced to 1-inch wide and 1/4-inch thick}
+Pancit Bihon Guisado: {16} {ounces} {pork hamonado, cut thinly on a bias}
+Pata Tim: {4} {pounds} {whole pork leg}
+Sinigang na Salmon Belly sa Kamias: {1} {pound} {salmon belly, scaled and cut into pieces}
+Lumpia Shanghai: {1} {pound} {ground chicken or pork}
+Baby Back Ribs with Adobo Glaze: {3} {pounds} {pork back ribs, cut into pieces between bones}
+Pork Embutido: {1 1/2} {pounds} {ground pork}
+Pork Bistek: {3} {pounds} {bone-in pork chops, about 1/4 inch thick}
+Kare-kareng Pata: {2} {pounds} {pork shanks, cut into 2-inch thickness}
+Salt and Pepper Pork Chops: {4} {} {bone-in pork chops, about 1/2-inch thick}
+Pancit Canton: {1/4} {pound} {(about 1 cup) pork butt, sliced thinly}
+Batchoy Tagalog: {1/2} {pound} {pork tenderloin}
+Batchoy Tagalog: {1/4} {pound} {pork liver}
+Nilagang Baboy: {2} {pounds} {pork belly, cut into 2 1/2 inch cubes}
+Longganisa: {2} {pounds} {coarsely ground pork}
+Longganisa: {1} {pound} {pork fat}
+Adobong Kangkong: {1/2} {pound} {pork belly}
+Beef Mechado: {1/4} {pound} {pork fat, cut into thin strips}
+Pork Adobo: {2} {pounds} {pork belly, cut into 2-inch cubes}
+Sinigang na Baboy: {2} {pounds} {pork spare ribs, cut into 2-inch pieces}
+
+####################
+Ground Pork
+Ginisang Togue: {} {} {salt and freshly-ground pepper to taste}
+Instant Pot Filipino-style Spaghetti: {1} {pound} {ground beef}
+Beef Tapa: {1/2} {teaspoon} {ground black pepper}
+Filipino Pork Barbecue: {1} {tablespoon} {ground black pepper}
+Lumpia Shanghai: {1/2} {teaspoon} {ground black pepper}
+Burger Steak: {1} {pound} {ground beef (80/20 ground chuck)}
+Longganisa: {2} {teaspoons} {ground black pepper}
+Bagis: {1} {pound} {ground beef}
+
+####################
+Chicken Meat
+Chicken Bicol Express: {2} {pounds} {boneless, skinless chicken thigh or breast meat, cut into 1-inch cubes}
+Paella: {3} {pounds} {whole chicken, cut into serving parts}
+Chicken Afritada: {4} {pounds} {chicken, cut into serving pieces}
+Ginisang Repolyo: {1/2} {pound} {boneless chicken breast or thigh meat, sliced thinly}
+Ginisang Repolyo: {1/2} {cup} {water or chicken broth}
+Chicken Skin Chicharon: {3} {pounds} {chicken skin}
+Ginisang Sayote with Chicken: {1} {pound} {boneless, skinless chicken thigh meat, cut into 1/2-inch pieces}
+Crab and Corn Soup: {4} {cups} {chicken broth}
+Crab and Corn Soup: {1} {cup} {crab meat, flaked}
+Chicken and Pork Adobo: {1 1/2} {pounds} {chicken, cut into serving parts}
+Instant Pot Chicken Adobo: {3} {pounds} {(about 6 to 8 pieces) chicken thighs, bone-in, skin-on}
+Miki Bihon: {4} {cups} {chicken stock}
+Miki Bihon: {1/2} {pound} {boneless, skinless chicken thigh meat, diced}
+Pancit Lomi Guisado: {1/2} {pound } {boneless, skinless chicken breast, sliced thinly}
+Pancit Lomi Guisado: {1} {cup} {water or chicken broth}
+Lemongrass Roasted Chicken: {1} {} {(about 4 to 5 pounds) whole chicken}
+Sotanghon at Upo Soup: {1/2} {pound} {boneless chicken thigh meat, diced}
+Crispy Chicken Livers a la Bistek: {2} {pounds} {chicken liver, cut into halves}
+Adobong Paa nang Manok (Chicken Feet Adobo): {3} {pounds} {chicken feet}
+Chicken a la King: {2} {pounds} {boneless, skinless chicken breasts}
+Chicken a la King: {2} {cups} {broth (reserved from poaching the chicken)}
+Chicken Inasal: {2} {} {(about 3 to 4 pounds each) whole chicken, quartered}
+Chicken Adobo: {1} {} {(3 to 4 pounds) whole chicken, cut into serving parts}
+Chicken Adobo with Liver Spread: {3} {pounds} {chicken, cut into serving parts}
+Adobong Manok sa Patis: {1} {} {(3 to 4 pounds) whole chicken, cut-up to serving pieces}
+Chicken Caldereta: {1} {} {(3 to 4 pounds) whole chicken, cut into serving parts}
+Lechon Manok: {1} {whole} {chicken (about 4 to 5 pounds)}
+Chicken Tapa: {3} {pounds} {boneless, skinless chicken thigh or leg meat}
+Chicken Bistek: {3} {pounds} {chicken, legs, thighs or whole cut up into serving parts}
+Pininyahang Manok: {3} {pounds} {chicken, cut into serving parts}
+Chicken Sopas: {2} {pounds} {bone-in chicken parts}
+Chicken Pastel: {2} {pounds} {boneless, skinless chicken thigh meat, cut into 1/2-inch cubes}
+Chicken Sisig: {4} {cups} {cooked chicken}
+Chicken Sisig: {1/4} {pound} {chicken livers}
+Chicken Kare-Kare: {3} {pounds} {chicken, cut into serving parts}
+Filipino-style Fried Chicken: {3} {pounds} {chicken legs or thighs}
+Pancit Bihon Guisado: {4} {cups} {chicken stock}
+Pancit Bihon Guisado: {1/2} {pound} {boneless, skinless chicken breast or thigh meat, sliced thinly}
+Pancit Canton: {1/4} {pound} {(about 1 cup) boneless, skinless chicken breast or thigh meat, sliced thinly}
+Pancit Canton: {4} {cups} {chicken broth}
+Chicken Tocino: {2} {pounds} {chicken thigh or leg meat, boneless and skinless}
+Chicken Pochero: {3} {pounds} {chicken, cut into serving parts}
+Arroz Caldo: {1} {} {(3 to 4 pounds) whole chicken, cut into serving pieces}
+Chop Suey: {1/4} {pound} {chicken liver, cut thin strips}
+Chop Suey: {1/2} {pound} {chicken thigh fillets, cut into thin strips}
+Tinolang Manok (Chicken Tinola): {1} {} {(3 to 4 pounds) whole chicken, cut into serving pieces}
+
+####################
+Coconut Milk
+Chicken Bicol Express: {1} {can} {(14 ounces) coconut cream}
+Avocado Sago Jelly: {1/2} {cup} {condensed milk}
+Bibingka: {1 1/2} {cups} {coconut milk}
+Ginataang Puso ng Saging: {1} {can} {(13.5 ounces) coconut milk}
+Champorado: {1/2} {cup} {evaporated milk}
+Suman Malagkit with Coconut Caramel Sauce: {1} {can} {(13.5 ounces) coconut milk}
+Buko Pandan Salad: {3} {cups} {coconut juice}
+Buko Pandan Salad: {2} {cups} {shredded young coconut}
+Buko Pandan Salad: {1} {can} {(14 ounces) sweetened condensed milk}
+Puto Maya and Sikwate: {1} {can} {(13.5 ounces) coconut milk}
+Brazo de Mercedes: {1} {can} {(14 ounces) condensed milk}
+Monay: {3/4} {cup} {warm milk}
+Monay: {1/4} {cup} {powdered milk}
+Pastillas de Leche: {5} {cups} {fresh milk (carabao or whole cow's milk)}
+Pastillas de Leche: {3/4} {cup} {full cream powdered milk}
+Ginataang Gulay: {2} {cans} {(13.5 ounces each) coconut milk}
+Halo-Halo: {1} {cup} {evaporated milk}
+Paksiw na Bangus: {1} {} {large milkfish}
+Ginataang Langka at Danggit: {1} {cup} {coconut milk}
+Ginataang Langka at Danggit: {1} {cup} {coconut cream}
+Beef Curry: {1} {can} {(13.5 ounces) coconut milk}
+Graham Balls: {1} {can} {(14 ounces) condensed milk}
+Ginataang Munggo at Baboy: {1-1/2} {cups} {coconut milk}
+Ginataang Talong: {1} {can} {(13.5 ounces) coconut cream (kakang gata)}
+Adobo sa Gata: {1} {cup} {coconut milk}
+Siopao Bola-Bola: {260} {ml} {warm milk (105 to 115 F)}
+Leche Flan: {1} {can} {(14 ounces) sweetened condensed milk}
+Leche Flan: {1} {can} {(12 ounces) evaporated milk}
+Maja Blanca Espesyal: {1} {can} {(13.5 ounces) coconut cream}
+Maja Blanca Espesyal: {2} {cans} {(13.5 ounces each) coconut milk}
+Maja Blanca Espesyal: {1} {can} {(12 ounces) evaporated milk}
+Maja Blanca Espesyal: {1} {can} {(14 ounces) condensed milk}
+Ginataang Hipon: {1} {can} {(13.5 ounces) coconut milk}
+Ginataang Kalabasa, Sitaw at Hipon: {2} {cups} {coconut milk}
+Laing: {4} {cups} {coconut milk}
+Laing: {1} {cup} {coconut cream}
+Bangus sa Tausi: {1} {} {whole milkfish, scaled, gutted, and cut into serving parts}
+Bicol Express: {1} {can} {(13.5 ounces) coconut milk}
+Bicol Express: {1} {cup} {coconut cream}
+Chicken Sopas: {1} {can} {(12 ounces) evaporated milk}
+Chicken Pastel: {1/2} {cup} {evaporated milk}
+Biko: {1} {cup} {coconut cream (kakang gata)}
+Biko: {3} {cups} {coconut milk}
+Yema Cake: {1/2} {cup} {milk}
+Dulce de Leche FLan: {1} {can} {(12 ounces) evaporated milk}
+Ginataang Sigarilyas at Kalabasa: {1} {cup} {coconut cream}
+Ginataang Seafood: {6} {cups} {coconut cream (kakang gata)}
+
+####################
+Chili Pepper
+Bopis: {1/2} {} {green bell pepper, seeded and chopped}
+Bopis: {1/2} {} {red bell pepper, seeded and chopped}
+Bopis: {4} {} {Thai chili peppers, stemmed and chopped}
+Chicken Bicol Express: {10} {pieces} {Thai chili peppers, stemmed and minced}
+Chicken Bicol Express: {2} {cups} {finger chilis, sliced}
+Chicken Bicol Express: {} {} {salt and pepper to taste}
+Pinakbet Tagalog: {} {} {salt and pepper to taste}
+Tokwa’t Baboy: {1} {teaspoon} {peppercorns}
+Ginataang Puso ng Saging: {2} {} {Thai chili peppers, stemmed and minced}
+Ginataang Puso ng Saging: {} {} {salt and pepper to taste}
+Paella: {} {} {salt and pepper to taste}
+Lumpiang Ubod: {} {} {salt and pepper to taste}
+Kilawing Puso ng Saging: {2} {} {Thai chili peppers, chopped}
+Kilawing Puso ng Saging: {} {} {salt and pepper to taste}
+Chicken Afritada: {1/2} {} {small red bell pepper, cored and sliced into 1/2-inch thick strips}
+Chicken Afritada: {1/2} {} {small green bell pepper, cored and sliced into 1/2-inch thick strips}
+Chicken Afritada: {} {} {salt and pepper to taste}
+Morcon: {} {} {pepper to taste}
+Fried Okra: {1/2} {teaspoon } {pepper}
+Instant Pot Filipino-style Spaghetti: {} {} {salt and pepper to taste}
+Instant Pot Filipino-style Spaghetti: {1/2} {} {green bell pepper, seeded, cored, and chopped}
+Instant Pot Filipino-style Spaghetti: {1/2} {} {red bell pepper, seeded, cored, and chopped}
+Filipino Scrambled Eggs: {} {} {salt and pepper to taste}
+Lengua Estofado: {1} {teaspoon} {pepper corns}
+Lengua Estofado: {} {} {salt and pepper to taste}
+Ginisang Repolyo: {} {} {salt and pepper to taste}
+Sinigang na Baka sa Bayabas: {} {} {salt and pepper to taste}
+Ginisang Pechay with Oyster Sauce: {} {} {salt and pepper to taste}
+Tokwa’t Baboy with Tausi: {} {} {salt and pepper to taste}
+Sweet and Sour Fish: {} {} {salt and pepper to taste}
+Sweet and Sour Fish: {1} {} {red bell pepper, seeded, cored, and cut into cubes}
+Ginisang Sayote: {} {} {salt and pepper to taste}
+Chicken Skin Chicharon: {1/2} {teaspoon} {peppercorns, cracked}
+Ginisang Sayote with Chicken: {} {} {salt and pepper to taste}
+Lugaw at Tokwa: {1/4} {teaspoon} {pepper}
+Lugaw at Tokwa: {2} {} {Thai chili pepper, minced}
+La Paz Batchoy: {} {} {rock salt and pepper}
+Crispy Tuna Shanghai: {} {} {salt and pepper to taste}
+Adobong Talong: {2} {} {Thai chili peppers}
+Adobong Talong: {} {} {salt and pepper to taste}
+Sisig Pusit: {} {} {salt and pepper to taste}
+Sisig Pusit: {1/2} {} {red bell pepper, seeded, cored, and diced}
+Sisig Pusit: {1/2} {} {green bell pepper, seeded, cored, and diced}
+Sisig Pusit: {4} {} {Thai chili peppers}
+Sweet and Sour Pork: {} {} {salt and pepper to taste}
+Sweet and Sour Pork: {1/2} {} {red bell pepper, cored, seeded, and cut into chunks}
+Sweet and Sour Pork: {1/2} {} {green bell pepper, cored, seeded, and cut into chunks}
+Kinamatisang Baboy: {} {} {salt and pepper to taste}
+Pinakbet with Crispy Lechon: {} {} {salt and pepper to taste}
+Crispy Sisig: {1} {} {medium red bell pepper, seeded, cored and diced}
+Crispy Sisig: {1} {} {medium green bell pepper, seeded, cored and diced}
+Crispy Sisig: {5} {} {Thai chili peppers, minced}
+Crispy Sisig: {} {} {salt and pepper to taste}
+Ensaladang Pipino: {1} {} {Thai chili pepper, minced}
+Ensaladang Pipino: {1/2} {teaspoon} {peppercorns, freshly cracked}
+Crab and Corn Soup: {} {} {salt and pepper to taste}
+Ginataang Gulay: {} {} {salt and pepper to taste}
+Crispy Tahong (Deep-Fried Mussels): {1/2} {teaspoon} {pepper}
+Chicken and Pork Adobo: {} {} {salt and pepper to taste}
+Paksiw na Bangus: {3} {} {finger chili peppers}
+Paksiw na Bangus: {1} {teaspoon} {peppercorns}
+Loslos: {1} {teaspoon} {peppercorns, cracked}
+Loslos: {1/4} {teaspoon} {pepper}
+Instant Pot Chicken Adobo: {} {pinch} {red pepper flakes}
+Instant Pot Chicken Adobo: {} {} {salt and freshly cracked pepper to taste}
+Grilled Tuna Belly: {1/2} {cup} {sweet chili sauce}
+Grilled Tuna Belly: {1/4} {teaspoon} {pepper}
+Ginataang Langka at Danggit: {3} {pieces} {Thai chili peppers, minced}
+Ginataang Langka at Danggit: {} {} {salt and pepper to taste}
+Kilawing Labanos at Baboy: {} {} {salt and pepper to taste}
+Corned Beef Spaghetti: {} {} {salt and pepper to taste}
+Beef Curry: {} {} {salt and pepper to taste}
+Beef Curry: {1/2} {} {red bell pepper, cored, seeded and cut into strips}
+Beef Curry: {1/2} {} {green bell pepper, cored, seeded and cut into strips}
+Miki Bihon: {} {} {salt and pepper to taste}
+Pancit Lomi Guisado: {} {} {salt and pepper to taste}
+Lechon Kawali: {1} {tablespoon} {peppercorns}
+Lemongrass Roasted Chicken: {1} {teaspoon} {pepper}
+Ginataang Munggo at Baboy: {} {} {salt and pepper to taste}
+Sotanghon at Upo Soup: {} {} {salt and pepper to taste}
+Ginataang Talong: {3} {} {Thai chili peppers, stemmed and minced}
+Ginataang Talong: {} {} {salt and pepper to taste}
+Adobong Itlog: {} {} {salt and pepper to taste}
+Pork Adobo with Pineapple: {} {} {salt and pepper to taste}
+Slow Cooker Lechon: {1} {teaspoon} {pepper}
+Beef Afritada: {½} {} {green bell pepper, seeded and cut into 1-inch cubes}
+Beef Afritada: {½} {} {red bell pepper, seeded and cut into 1-inch cubes}
+Beef Afritada: {} {} {salt and pepper to taste}
+Humba: {1} {teaspoon} {peppercorns}
+Adobo sa Gata: {1/2} {teaspoon} {peppercorns}
+Adobo sa Gata: {2} {} {Thai chili peppers, stemmed and chopped}
+Crispy Chicken Livers a la Bistek: {1/4} {teaspoon} {pepper}
+Tinapa Fried Rice: {} {} {salt and pepper to taste}
+Inihaw na Pusit (Grilled Squid): {} {} {salt and pepper to taste}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1/2} {teaspoon} {peppercorns, cracked}
+Goto: {1/2} {teaspoon} {peppercorns}
+Chicken a la King: {1/2} {teaspoon} {peppercorns}
+Chicken a la King: {1/2} {} {red bell pepper, stemmed, cored and chopped}
+Chicken a la King: {1/2} {} {green bell pepper, red pepper, stemmed, cored and chopped}
+Chicken a la King: {} {} {salt and pepper to taste}
+Pineapple Pork Ribs: {} {} {salt and pepper to taste}
+Escabeche Lapu Lapu: {} {} {salt and pepper to taste}
+Escabeche Lapu Lapu: {1} {} {small red bell pepper, seeded and cut into strips}
+Escabeche Lapu Lapu: {1} {} {small green bell pepper, seeded and cut into strips}
+Chicken Inasal: {1/2} {teaspoon} {pepper}
+Chicken Adobo: {1/2} {teaspoon} {peppercorns}
+Chicken Adobo: {} {} {salt and pepper to taste}
+Ukoy: {1/2} {teaspoon} {pepper}
+Chicken Adobo with Liver Spread: {} {} {salt and pepper to taste}
+Pork Estofado: {1/4} {teaspoon} {pepper}
+Adobong Manok sa Patis: {1/2 } {teaspoon} {peppercorns, crushed}
+Chicken Caldereta: {} {} {salt and pepper to taste}
+Chicken Caldereta: {1} {} {small green bell pepper, cored, seeded and cut into 2-inch cubes}
+Chicken Caldereta: {1} {} {small red bell pepper,  cored, seeded and cut into 2-inch cubes}
+Chicken Caldereta: {3} {} {Thai chili peppers, stemmed and chopped}
+Paksiw na Lechon: {} {} {salt and pepper to taste}
+Lechon Manok: {} {} {salt and pepper}
+Inihaw na Liempo: {2} {} {Thai chili peppers, minced}
+Inihaw na Liempo: {1/2} {teaspoon} {pepper}
+Sizzling Tofu: {1} {} {small red bell pepper, cored, seeded, and chopped}
+Sizzling Tofu: {1} {} {small green bell peppers, cored, seeded, and chopped}
+Sizzling Tofu: {3} {} {finger chili peppers (siling haba)}
+Sizzling Tofu: {2} {} {Thai chili peppers}
+Batsui: {1/4} {teaspoon} {pepper}
+Chicken Tapa: {1/4} {teaspoon} {pepper}
+Chicken Bistek: {1/2} {teaspoon} {peppercorns, cracked}
+Pork Pochero: {} {} {salt and pepper to taste}
+Dinuguan: {2} {} {finger chilies (siling haba)}
+Dinuguan: {} {} {salt and pepper to taste}
+Pininyahang Manok: {1} {} {medium red pepper, seeded, cored and cut into chunks}
+Pininyahang Manok: {} {} {salt and pepper to taste}
+Ginataang Hipon: {2} {} {Thai chili peppers or Finger chili peppers}
+Ginataang Hipon: {} {} {salt and pepper to taste}
+Ginataang Kalabasa, Sitaw at Hipon: {2} {} {finger chili peppers}
+Nilagang Baka: {1} {teaspoon} {peppercorns}
+Adobong Sitaw with Pork: {} {} {salt and pepper to taste}
+Laing: {} {} {pepper to taste}
+Laing: {8} {} {Thai chili peppers, chopped}
+Bangus sa Tausi: {} {} {salt and pepper to taste}
+Pork Siomai: {1/2} {teaspoon} {pepper}
+Bicol Express: {14} {pieces} {Thai chili peppers, stemmed and minced}
+Bicol Express: {2} {cups} {finger chilies (siling haba), sliced}
+Bicol Express: {} {} {salt and pepper to taste}
+Pata Hamonado: {1} {teaspoon} {peppercorns}
+Pata Hamonado: {} {} {salt and pepper to taste}
+Pork Chicharon: {1} {teaspoon } {peppercorns}
+Pininyahang Baboy: {1/2} {} {red bell pepper, seeded, cored and cut into 1-inch cubes}
+Pininyahang Baboy: {1/2} {} {green bell pepper,  seeded, cored and cut into 1-inch cubes}
+Pork Afritada: {1/2} {} {green bell pepper, cored, seeded and cut into cubes}
+Pork Afritada: {1/2} {} {red bell pepper,  cored, seeded and cut into cubes}
+Pork Afritada: {} {} {salt and pepper to taste}
+Sizzling Sisig: {1} {teaspoon} {whole peppercorns}
+Sizzling Sisig: {6} {} {Thai chili peppers, stemmed and minced}
+Sizzling Sisig: {} {} {pepper to taste}
+Chicken Sopas: {1} {teaspoon} {peppercorns}
+Chicken Sopas: {} {} {salt and pepper to taste}
+Chicken Sopas: {} {} {salt and pepper to taste}
+Pork Menudo: {1/2} {} {green bell pepper, cored, seeded and cut into 1-inch cubes}
+Pork Menudo: {1/2} {} {red bell pepper, cored, seeded and cut into 1-inch cubes}
+Pork Menudo: {} {} {salt and pepper to taste}
+Chicken Pastel: {} {} {salt and pepper to taste}
+Chicken Sisig: {} {} {salt and pepper to taste}
+Chicken Sisig: {2} {} {Thai chili peppers, chopped}
+Binagoongan Baboy: {5} {} {Thai chili peppers, chopped}
+Binagoongan Baboy: {} {} {salt and pepper to taste}
+Filipino Pork Barbecue: {10} {} {Thai chili peppers (siling labuyo), minced}
+Chicken Kare-Kare: {} {} {salt and pepper to taste}
+Filipino-style Fried Chicken: {1/2} {teaspoon} {pepper}
+Pancit Bihon Guisado: {} {} {salt and pepper to taste}
+Lumpiang Hubad: {} {} {salt and pepper to taste}
+Burger Steak: {1/4} {teaspoon} {pepper}
+Baby Back Ribs with Adobo Glaze: {1/2} {teaspoon} {peppercorns, crushed}
+Pork Embutido: {1} {teaspoon} {pepper}
+Ginataang Sigarilyas at Kalabasa: {} {} {salt and pepper to taste}
+Ginisang Sardinas at Miswa: {} {} {salt and pepper to taste}
+Beef Pares: {1} {teaspoon} {peppercorns}
+Beef Pares: {} {} {pepper to taste}
+Pork Bistek: {1/4} {teaspoon} {pepper}
+Kare-kareng Pata: {} {} {salt and pepper to taste}
+Filipino Beef Tapa: {1/4} {teaspoon} {pepper}
+Chop Suey with Tofu and Shiitake Mushrooms: {} {} {salt and pepper to taste}
+Salt and Pepper Pork Chops: {1/4} {teaspoon} {pepper}
+Ginataang Seafood: {} {} {salt and pepper to taste}
+Laswa: {} {} {salt and pepper to taste}
+Sinigang na Baka: {2} {} {finger chilies}
+Sinigang na Baka: {} {} {salt and pepper to taste}
+Pancit Canton: {} {} {salt and pepper to taste}
+Batchoy Tagalog: {} {} {salt and pepper to taste}
+Beef Salpicao: {} {} {salt and pepper to taste}
+Beef Salpicao: {1/4} {teaspoon} {red chili pepper flakes}
+Nilagang Baboy: {1/2} {teaspoon} {peppercorns, cracked}
+Spicy Tahong: {6 to 7} {} {Thai chili peppers}
+Spicy Tahong: {1} {} {small bell pepper}
+Spicy Tahong: {} {} {salt and pepper to taste}
+Adobong Kangkong: {} {} {pepper to taste}
+Beef Mechado: {1} {} {small green bell pepper, seeded and cut into cubes}
+Beef Mechado: {1} {} {small red bell pepper, seeded and cut into cubes}
+Beef Mechado: {} {} {salt and pepper to taste}
+Relyenong Bangus: {} {} {salt and pepper to taste}
+Tortang Talong: {} {} {salt and pepper to taste.}
+Camaron Rebosado: {1/4} {teaspoon} {pepper}
+Chicken Pochero: {} {} {salt and pepper to taste}
+Bulalo: {1} {tablespoon} {peppercorns}
+Arroz Caldo: {} {} {salt and pepper to taste}
+Bagis: {5} {} {large Thai chili peppers, stemmed and chopped}
+Chop Suey: {1/2} {} {red bell pepper, seeded and cut into strips}
+Chop Suey: {1/2} {} {bell pepper, seeded and cut into strips}
+Chop Suey: {} {} {salt and pepper to taste}
+Tinolang Manok (Chicken Tinola): {} {} {salt and pepper to taste}
+Pork Adobo: {1/2} {teaspoon} {pepper}
+Sinigang na Baboy: {2} {} {finger chilies (siling haba)}
+Sinigang na Baboy: {} {} {salt and pepper to taste}
+
+####################
+Shrimp
+Chicken Bicol Express: {1} {tablespoon} {sauteed shrimp paste}
+Pinakbet Tagalog: {1} {tablespoon} {shrimp paste}
+Paella: {1} {pound} {large shrimp, tendrils trimmed}
+Lumpiang Ubod: {1/2} {pound} {shrimp, peeled and coarsely chopped}
+Ginisang Togue: {1/2} {pound} {shrimp, peeled and deveined}
+Shrimp with Oyster Sauce: {1} {pound} {large shrimp, shell and head on}
+Ginisang Repolyo: {1/2} {pound} {large shrimp, peeled and deveined}
+Ginisang Sayote: {1/2} {pound} {large shrimp, peeled, deveined and cut into 3 to 4 pieces}
+Baked Cheese Shrimp: {1} {pound} {large shrimp (31-40 size )}
+Binagoongan Fried Rice: {2} {tablespoons} {ginisang" shrimp paste or "raw" shrimp paste}
+La Paz Batchoy: {1} {tablespoon} {sauteed shrimp paste}
+Ginataang Gulay: {1/2} {pound} {medium shrimp, peeled and deveined}
+Ginataang Gulay: {1} {tablespoon} {shrimp paste}
+Miki Bihon: {1/2} {pound} {shrimp, peeled and deveined}
+Pancit Lomi Guisado: {1/4} {pound} {medium shrimp, peeled and deveined}
+Ukoy: {1/2} {pound} {small shrimps, tendrils trimmed}
+Ginataang Hipon: {1} {pound} {large shrimps, tendrils trimmed}
+Ginataang Kalabasa, Sitaw at Hipon: {1/2} {lb} {large shrimp, tendrils trimmed}
+Laing: {1} {tablespoon} {shrimp paste}
+Pork Siomai: {1/4} {pound} {large shrimp, peeled, deveined and finely chopped}
+Bicol Express: {2} {tablespoons} {fresh shrimp paste}
+Binagoongan Baboy: {2} {tablespoons} {sauteed shrimp paste}
+Pancit Bihon Guisado: {1/2} {pound} {large shrimp, peeled and deveined}
+Ginataang Sigarilyas at Kalabasa: {1/2} {pound} {shrimp, peeled and deveined}
+Kare-kareng Pata: {} {} {shrimp paste}
+Ginataang Seafood: {1} {pound} {shrimp}
+Ginataang Seafood: {1} {tablespoon} {shrimp paste}
+Laswa: {1/2} {pound} {head on shrimps}
+Pancit Canton: {8} {pieces} {large shrimps, peeled and deveined}
+Camaron Rebosado: {1} {pound} {16 to 20 pieces large shrimp}
+
+####################
+Mussels
+Paella: {1} {dozen} {mussels, or littleneck clam, scrubbed and bearded}
+Crispy Tahong (Deep-Fried Mussels): {2} {pounds} {half-shell New Zealand mussels}
+Ginataang Seafood: {2} {pounds} {mussels}
+Spicy Tahong: {2} {pounds} {mussels}
+
+####################
+Lemon
+Avocado Sago Jelly: {} {} {lemon juice}
+Morcon: {} {} {juice from 1 lemon}
+Brazo de Mercedes: {1/2} {teaspoon} {lemon or calamansi zest}
+Grilled Tuna Belly: {} {} {juice of 1 lemon}
+Miki Bihon: {} {} {calamansi or lemon, cut into wedges}
+Lemongrass Roasted Chicken: {2} {} {stalks lemongrass}
+Lemongrass Roasted Chicken: {2} {stalks} {lemongrass}
+Crispy Chicken Livers a la Bistek: {2} {} {lemons, juiced (about 1/2 cup juice)}
+Chicken Inasal: {2} {stalks} {lemongrass}
+Lechon Manok: {1} {stalk} {lemongrass}
+Chicken Tapa: {1/4} {cup} {lemon juice}
+Chicken Bistek: {1/4} {cup} {lemon or calamansi juice}
+Laing: {2} {} {lemongrass stalks}
+Chicken Pastel: {} {} {juice of 1 lemon}
+Filipino-style Fried Chicken: {1/4} {cup} {calamansi or lemon juice}
+Pancit Bihon Guisado: {} {} {calamansi or lemon, cut into wedges}
+Pork Bistek: {1/2} {cup} {calamansi or lemon juice}
+Beef Mechado: {1/4} {cup} {lemon or calamansi juice}
+Relyenong Bangus: {} {} {juice of 1 lemon}
+Camaron Rebosado: {1} {tablespoon} {lemon or calamansi juice}
+
+####################
+Calamansi
+Sisig Pusit: {1/4} {cup} {calamansi juice}
+Pastillas de Leche: {1/2} {teaspoon} {lime or calamansi zest }
+Crispy Sisig: {1/2} {cup} {calamansi juice}
+Chicken Inasal: {1/4} {cup} {calamansi juice}
+Lechon Manok: {1} {cup} {calamansi juice}
+Inihaw na Liempo: {1/2} {cup} {calamansi juice}
+Sizzling Tofu: {1/4} {cup} {calamansi juice}
+Sizzling Sisig: {1/2} {cup} {calamansi juice}
+Chicken Sisig: {1/4} {cup} {calamansi or lime juice}
+Filipino Beef Tapa: {1/4} {cup} {calamansi juice}
+Bagis: {1/2} {cup} {calamansi juice}
+
+####################
+Littleneck Clam
+
+####################
+Fresh Milk
+Fried Okra: {1} {pound} {fresh okra, ends trimmed and cut into 1/2 inch rounds}
+La Paz Batchoy: {2} {package} {(16 ounces each) fresh miki noodles}
+Pancit Lomi Guisado: {1} {package} {(14 ounces) fresh lomi noodles}
+Ginataang Munggo at Baboy: {1} {bunch} {fresh spinach, stems trimmed}
+Ginisang Munggo at Chicharon: {1} {} {bunch fresh spinach, stems trimmed}
+Chicken a la King: {4} {ounces} {fresh button mushrooms, sliced thinly (or canned sliced mushrooms, drained)}
+Batsui: {3} {} {thumb-size fresh ginger, peeled and julienned (about 3 tablespoons)}
+Batchoy Tagalog: {1} {} {bunch fresh sili leaves}
+Arroz Caldo: {4} {tablespoons} {fresh ginger, peeled and minced}
+Tinolang Manok (Chicken Tinola): {2} {} {thumb-sized fresh ginger}
+Tinolang Manok (Chicken Tinola): {1} {bunch} {fresh spinach leaves, stems trimmed}
+
+####################
+Lettuce
+Lumpiang Ubod: {} {} {green leaf lettuce leaves, ends trimmed and leaves separated}
+
+####################
+Lettuce Heart
+
+####################
+Ubod
+Lumpiang Ubod: {2} {pounds} {about 4 cups ubod, cut into matchsticks}
+
+####################
+Carrot
+Bopis: {1} {} {large carrot, peeled and diced}
+Ginisang Togue: {1} {} {large carrot, peeled and cut thinly on a bias}
+Chicken Afritada: {1} {} {large carrot, peeled and cut into cubes}
+Morcon: {1} {} {medium carrot, peeled and sliced lengthwise into strips}
+Ginisang Repolyo: {2} {} {large carrots, peeled and sliced thinly in a bias}
+Crispy Tuna Shanghai: {1/4} {cup} {carrots, shredded}
+Beef Curry: {2} {} {large carrots, peeled and cut into 2-inch cubes}
+Miki Bihon: {2} {} {large carrots, peeled and julienned}
+Pancit Lomi Guisado: {2} {} {large carrots, peeled and julienned}
+Beef Afritada: {1} {} {large carrot, peeled and cut into cubes}
+Lumpiang Sariwa: {1} {pound} {carrots, peeled and diced}
+Pork Estofado: {1} {} {large carrot, peeled and cut into 1-inch thick chunks}
+Chicken Caldereta: {1} {} {large carrot, peeled and cut diagonally in a bias into 1/2-inch thick}
+Pork Pochero: {1} {} {large carrot, peeled and cut into chunks}
+Pork Afritada: {2} {} {large carrots, peeled and cubed}
+Chicken Sopas: {2} {} {large carrots, peeled and cubed}
+Pork Menudo: {2} {} {large carrots, peeled and cut into 1-inch cubes}
+Chicken Pastel: {1} {} {large carrot, peeled and cut into 1/2-inch cubes}
+Pancit Bihon Guisado: {2} {} {large carrots, peeled and sliced thinly on a bias}
+Lumpiang Hubad: {2} {} {large carrots, peeled and cut into 1/2-inch cubes}
+Lumpia Shanghai: {1} {} {medium carrot, peeled and shredded}
+Pork Embutido: {1} {} {large carrot, peeled and shredded}
+Chop Suey with Tofu and Shiitake Mushrooms: {2} {} {large carrots, peeled and cut thinly in a bias}
+Pancit Canton: {1} {} {large carrot, peeled and julienned}
+Beef Mechado: {2} {} {medium carrots, peeled and cut into 2-inch cubes}
+Relyenong Bangus: {1} {} {large carrot}
+Chop Suey: {1} {} {large carrot, peeled and sliced on a bias into 1/4-inch thick}
+
+####################
+Green Beans
+Pinakbet Tagalog: {1/2} {bunch} {long beans, ends trimmed and cut into 3-inch lengths}
+Ginisang Togue: {12} {pieces} {green beans, ends trimmed and cut thinly on a bias}
+Tokwa’t Baboy with Tausi: {1} {can} {(6.34 ounces) salted black beans (tausi), drained and rinsed}
+Buko Pandan Salad: {2} {bars} {(.70 ounce) green agar-agar, shredded to very small pieces}
+Pinakbet with Crispy Lechon: {1/2} {bunch} {long beans (sitaw), ends trimmed and cut into 3-inch lengths}
+Ginataang Gulay: {8} {ounces} {frozen young green jackfruit, thawed and cut into 1-inch pieces or 1 (20 ounces) can young green jackfruit}
+Ginataang Gulay: {12} {pieces} {green beans, ends trimmed and cut into halves}
+Halo-Halo: {1/2} {cup} {sweetened beans (garbanzo, red mung, and/or white beans)}
+Ginataang Langka at Danggit: {2} {} {(16 ounces each) packages frozen green langka, thawed and drained well}
+Ginataang Munggo at Baboy: {1} {cup} {dry mung beans}
+Ginisang Munggo at Chicharon: {1} {cup} {dried mung beans}
+Humba: {1} {can} {(6 ounces) tausi (salted black beans), drained and rinsed}
+Escabeche Lapu Lapu: {1/2} {} {small green papaya, peeled and grated}
+Lumpiang Sariwa: {1/4} {pound} {green beans, ends trimmed and cut into 1/4 inch thick}
+Ukoy: {1} {} {medium green papaya, peeled, seeded and shredded}
+Chicken Caldereta: {1/4} {cup} {green olives}
+Pork Pochero: {8} {pieces} {green beans (Bagiuo beans), ends trimmed}
+Ginataang Kalabasa, Sitaw at Hipon: {2} {cups} {sitaw (long beans), ends trimmed and cut into 3-inch lengths}
+Nilagang Baka: {12} {} {green beans, ends trimmed}
+Adobong Sitaw with Pork: {1} {bunch} {yard long beans (sitaw), ends trimmed and cut into 3-inch lengths}
+Bangus sa Tausi: {1} {can} {(6.3 ounces) tausi (fermented black beans), drained and rinsed}
+Pork Menudo: {1} {can} {(16 ounces) garbanzo beans, drained well}
+Chicken Pastel: {1} {cup} {frozen green peas, thawed}
+Chicken Kare-Kare: {1/2} {bundle} {long beans, ends trimmed and cut into 3-inch lengths}
+Lumpiang Hubad: {2} {cups} {garbanzo beans}
+Lumpiang Hubad: {1} {cup} {green beans, ends trimmed and cut thinly on a bias}
+Sinigang na Salmon Belly sa Kamias: {1} {cup} {long beans, ends trimmed and cut into 3-inch lengths}
+Ginataang Sigarilyas at Kalabasa: {1} {pound} {sigarilyas, winged beans, ends trimmed and sliced diagonally}
+Kare-kareng Pata: {1} {bundle} {long beans, sitaw, cut into 3-inch lengths}
+Buchi: {1} {cup} {peeled split mung beans}
+Relyenong Bangus: {1/2} {cup} {frozen green peas}
+Chicken Pochero: {1} {cup} {garbanzo beans}
+Chicken Pochero: {12} {pieces} {green beans, ends trimmed}
+Tinolang Manok (Chicken Tinola): {1} {} {small green papaya, pared, seeded and cut into 2-inch wedges}
+Sinigang na Baboy: {1/2} {} {bunch long beans (sitaw), ends trimmed and cut into 3-inch lengths}
+
+####################
+Bean Sprouts
+Ginisang Togue: {1} {package} {(16 ounces or about 4 cups) bean sprouts}
+Lumpiang Sariwa: {1/2} {pound} {bean sprouts}
+
+####################
+Desiccated Coconut
+
+####################
+Green Onion
+
+####################
+Shiitake Mushroom
+Lengua Estofado: {1} {can} {(4 ounces) button mushrooms, drained}
+Pork Siomai: {6} {} {medium dried shitake mushrooms}
+Chicken Pastel: {1} {can} {(7 ounces) button mushrooms, drained and sliced thinly}
+Pata Tim: {4} {pieces} {shitake mushrooms}
+Burger Steak: {1} {can} {(14 ounces) button mushrooms, drained and sliced}
+Chop Suey with Tofu and Shiitake Mushrooms: {6} {pieces} {Shiitake mushrooms}
+
+####################
+Water Chestnut
+Pinakbet Tagalog: {2} {cups} {water}
+Tokwa’t Baboy: {} {} {water}
+Avocado Sago Jelly: {3} {cups} {water}
+Bibingka: {1/2} {} {cup water}
+Paella: {6} {cups} {warm water}
+Lumpiang Ubod: {1/2} {cup} {water}
+Kilawing Puso ng Saging: {1/2} {cup} {water}
+Champorado: {5} {cups} {water}
+Minatamis na Langka: {1} {cup} {water}
+Chicken Afritada: {1} {cup} {water}
+Instant Pot Filipino-style Spaghetti: {3} {cups} {water or beef broth}
+Lengua Estofado: {} {} {water}
+Sinigang na Hito sa Miso: {6} {cups} {water}
+Sinigang na Baka sa Bayabas: {8} {cups} {water}
+Ginisang Pechay with Oyster Sauce: {1/4} {cup} {water}
+Tokwa’t Baboy with Tausi: {1} {cup} {water}
+Ginisang Sayote: {1} {cup} {hot water}
+Chicken Skin Chicharon: {1} {cup} {water}
+Ginisang Sayote with Chicken: {1 1/2} {cups} {water}
+Lugaw at Tokwa: {8} {cups} {water}
+La Paz Batchoy: {} {} {water}
+Crispy Tuna Shanghai: {1/4} {cup} {water chestnuts, drained and finely chopped}
+Adobong Talong: {1/2} {cup} {water}
+Monay: {1/4} {cup} {water (105-115 F)}
+Kinamatisang Baboy: {6} {cups} {water}
+Pinakbet with Crispy Lechon: {1 1/2} {cups} {water}
+Sinaing na Tulingan: {} {} {water}
+Crab and Corn Soup: {1/4} {cup} {water}
+Taho: {1} {cup} {water}
+Chicken and Pork Adobo: {1} {cup} {water}
+Paksiw na Bangus: {1} {cup} {water}
+Loslos: {1} {cup} {water}
+Kilawing Labanos at Baboy: {1} {cup} {water}
+Beef Curry: {2} {cups} {water}
+Lechon Kawali: {} {} {water}
+Ginataang Munggo at Baboy: {6} {cups} {water}
+Ginisang Munggo at Chicharon: {6} {cups} {water}
+Sotanghon at Upo Soup: {4} {cups} {water}
+Ginataang Talong: {1} {cup} {water}
+Adobong Itlog: {1/4} {cup} {water}
+Pork Adobo with Pineapple: {1/2} {cup} {water}
+Beef Afritada: {2} {cups} {water}
+Adobo sa Gata: {1} {cup} {water}
+Pancit Malabon: {} {} {water}
+Crispy Chicken Livers a la Bistek: {1/2} {cup} {water}
+Adobong Paa nang Manok (Chicken Feet Adobo): {2} {cups} {water}
+Goto: {8} {cups} {water}
+Chicken a la King: {} {} {cool water}
+Pineapple Pork Ribs: {2} {cups} {water}
+Siopao Asado: {2} {cups} {water}
+Escabeche Lapu Lapu: {1/4} {cup} {water}
+Chicken Adobo: {1} {cup} {water}
+Ukoy: {1} {cup} {water}
+Chicken Adobo with Liver Spread: {1} {cup} {water}
+Pork Estofado: {1} {cup} {water}
+Adobong Manok sa Patis: {1} {cup} {water}
+Chicken Caldereta: {1 1/2} {cups} {water}
+Maja Blanca Espesyal: {1/2} {cup} {water}
+Paksiw na Lechon: {2} {cups} {water}
+Batsui: {8} {cups} {hot water}
+Chicken Bistek: {1} {cup} {water}
+Pork Pochero: {4} {cups} {water}
+Dinuguan: {1} {cup} {water}
+Nilagang Baka: {8} {cups} {water}
+Adobong Sitaw with Pork: {1/2} {cup} {water}
+Bangus sa Tausi: {1} {cup} {water}
+Pork Siomai: {2} {tablespoons} {water}
+Bicol Express: {1} {cup} {water}
+Pata Hamonado: {2} {cups} {water}
+Pininyahang Baboy: {1/2} {cup} {water}
+Pork Afritada: {1 1/2} {cups} {water }
+Sizzling Sisig: {} {} {water}
+Chicken Sopas: {10} {cups} {water}
+Pork Menudo: {2} {cups} {water}
+Chicken Pastel: {2} {cups} {water}
+Biko: {1 1/2} {cups} {water}
+Binagoongan Baboy: {1} {cup} {water}
+Chicken Kare-Kare: {3} {cups} {water}
+Dulce de Leche FLan: {1/4} {cup} {water}
+Pata Tim: {4} {cups} {water}
+Lumpiang Hubad: {1} {cup} {water}
+Sinigang na Salmon Belly sa Kamias: {6} {cups} {water}
+Lumpia Shanghai: {1} {can} {(8 ounces) water chestnuts, drained and finely chopped}
+Burger Steak: {1/4} {cup} {beef broth or water}
+Ginataang Sigarilyas at Kalabasa: {1/2} {cup} {water}
+Ginisang Sardinas at Miswa: {2} {cups} {water}
+Beef Pares: {6} {cups} {water}
+Pork Bistek: {1} {cup} {water}
+Kutsinta: {3} {cups} {water}
+Kutsinta: {1} {tablespoon} {lye water}
+Chop Suey with Tofu and Shiitake Mushrooms: {} {} {water}
+Laswa: {5 to 6} {cups} {water}
+Sinigang na Baka: {10} {cups} {water}
+Batchoy Tagalog: {} {} {water}
+Chicken Tocino: {1} {cup} {water}
+Nilagang Baboy: {8} {cups} {water}
+Buchi: {} {} {water}
+Longganisa: {1} {cup} {water}
+Adobong Kangkong: {1/2} {cup} {water}
+Beef Mechado: {2} {cups} {water}
+Relyenong Bangus: {1} {cup} {water}
+Camaron Rebosado: {1/4} {cup} {ice cold water}
+Chicken Pochero: {3} {cups} {water}
+Bulalo: {} {} {water}
+Arroz Caldo: {6} {cups} {water}
+Bagis: {1} {cup} {water}
+Chop Suey: {1/4} {cup} {water}
+Tinolang Manok (Chicken Tinola): {5} {cups} {water}
+Pork Adobo: {1} {cup} {water}
+Sinigang na Baboy: {8} {cups} {water}
+
+####################
+Ginger
+Chicken Bicol Express: {1} {} {thumb-size ginger, peeled and minced}
+Sinigang na Hito sa Miso: {1} {} {thumb-size ginger, peeled and julienned}
+Lugaw at Tokwa: {2} {} {thumb-size ginger, pounded}
+Puto Maya and Sikwate: {2} {} {thumb-size ginger, peeled and grated}
+Sisig Pusit: {1} {} {thumb-sized ginger, peeled and minced}
+Paksiw na Bangus: {1} {} {thumb-size ginger, sliced into thirds and pounded}
+Beef Curry: {1} {} {thumb-size ginger, peeled and julienned}
+Lemongrass Roasted Chicken: {1} {} {thumb-size ginger, peeled and crushed}
+Goto: {1} {} {thumb-size ginger, cut into half and pounded}
+Pineapple Pork Ribs: {1} {} {thumb-size ginger, peeled and chopped}
+Escabeche Lapu Lapu: {1} {} {thumb-size ginger, peeled and julienned}
+Chicken Inasal: {1} {} {thumb-size ginger, peeled and grated}
+Dinuguan: {1} {} {thumb-size ginger (about 1 tablespoon), peeled and minced}
+Ginataang Hipon: {1} {} {thumb-size ginger, peeled and julienned}
+Laing: {1} {} {thumb-size ginger, peeled and minced}
+Bangus sa Tausi: {1} {} {thumb-size ginger, julienned}
+Pork Siomai: {1} {} {thumb-size ginger, peeled, grated, and juice extracted}
+Ginataang Seafood: {1} {} {thumb-size ginger, peeled and minced}
+Batchoy Tagalog: {2} {} {thumb-sized ginger}
+
+####################
+Cantaloupe
+
+####################
+Jackfruit
+Minatamis na Langka: {2} {pounds} {about 4 cups) ripe jackfruit flesh, pitted}
+Banana Turon: {1/2} {cup} {sweetened jackfruit, cut into strips}
+Halo-Halo: {1/2} {cup} {sweetened jackfruit strips}
+
+####################
+Broccoli
+Pancit Lomi Guisado: {1} {head} {broccoli, cut into small florets}
+Chop Suey with Tofu and Shiitake Mushrooms: {1} {} {broccoli crown, cut into florets}
+Chop Suey: {1/2} {} {broccoli, cut into florets}
+
+####################
+Red Bell Pepper
+Avocado Sago Jelly: {1/2} {pack} {(48 grams) clear unflavored jelly}
+Chicken Afritada: {2} {} {medium potatoes, peeled and quartered}
+Filipino-style Lasagna: {1} {cup} {Cheddar Jack cheese, shredded}
+Instant Pot Filipino-style Spaghetti: {} {} {shredded quick-melt cheese}
+Sinigang na Baka sa Bayabas: {1} {pound} {(about 10 to 12 pieces) large ripe and semi-ripe guavas, peeled, quartered, and seeded}
+Ginisang Sayote: {4} {} {sayote, peeled, cored, quartered and sliced on a bias}
+Baked Cheese Shrimp: {1/4} {cup} {cheddar cheese, shredded}
+Ginisang Sayote with Chicken: {4} {} {sayote, peeled, cored, quartered and sliced on a bias}
+Crispy Tuna Shanghai: {1/2} {cup} {shredded quick melt cheese (Eden) }
+Corned Beef Spaghetti: {1/2} {cup} {quick melt cheese, shredded}
+Beef Afritada: {2} {} {medium potatoes, peeled and quartered}
+Chicken Caldereta: {2} {} {medium potatoes, peeled and quartered}
+Pork Pochero: {2} {} {medium potatoes, peeled and quartered}
+Ginataang Kalabasa, Sitaw at Hipon: {2} {cups} {kalabasa (kabocha squash), pared, seeded and cut into 2-inch chunks}
+Nilagang Baka: {2} {} {medium potatoes, peeled and quartered}
+Sinigang na Salmon Belly sa Kamias: {2} {} {medium tomatoes, quartered}
+Sinigang na Baka: {2} {large} {Roma tomatoes, quartered}
+Beef Mechado: {2} {} {medium potatoes, peeled and quartered}
+Chicken Pochero: {2} {} {medium potatoes, peeled and quartered}
+Sinigang na Baboy: {2} {} {large tomatoes, quartered}
+
+####################
+Tomato
+Pinakbet Tagalog: {2} {} {Roma tomatoes, chopped}
+Paella: {1} {cup} {tomato sauce}
+Shrimp with Oyster Sauce: {1/2} {cup} {tomato sauce}
+Chicken Afritada: {6} {} {large Roma tomatoes}
+Instant Pot Filipino-style Spaghetti: {1} {can} {(14.5 ounces) diced tomatoes}
+Filipino Scrambled Eggs: {2} {} {large Roma tomatoes, chopped}
+Lengua Estofado: {1} {cup} {tomato sauce}
+Sinigang na Hito sa Miso: {2} {} {tomatoes, chopped}
+Sinigang na Baka sa Bayabas: {3} {} {Roma tomatoes, chopped}
+Ginisang Pechay with Oyster Sauce: {1} {} {tomato, chopped}
+Tokwa’t Baboy with Tausi: {3} {} {Roma tomatoes, chopped}
+Ginisang Sayote: {2} {} {Roma tomatoes, chopped}
+Ginisang Sayote with Chicken: {2} {} {Roma tomatoes, chopped}
+Binagoongan Fried Rice: {1} {} {Roma tomato, chopped}
+Kinamatisang Baboy: {5} {} {large Roma tomatoes}
+Pinakbet with Crispy Lechon: {2} {} {large tomatoes, chopped}
+Ginataang Munggo at Baboy: {1} {} {large tomato, chopped}
+Ginisang Munggo at Chicharon: {1} {} {large tomato, chopped}
+Beef Afritada: {1} {can} {(15 ounces) crushed tomatoes}
+Beef Afritada: {2} {tablespoons} {tomato paste}
+Inihaw na Pusit (Grilled Squid): {2} {} {Roma tomatoes, finely chopped}
+Chicken Caldereta: {2} {cups} {tomato sauce}
+Pork Pochero: {2} {} {medium tomatoes, chopped}
+Bangus sa Tausi: {2} {} {large Roma tomatoes, chopped}
+Pork Afritada: {1} {cup} {tomato sauce}
+Pork Afritada: {1} {tablespoon} {tomato paste}
+Pork Menudo: {6} {} {large tomatoes, chopped}
+Binagoongan Baboy: {2} {} {large tomatoes, chopped}
+Ginisang Sardinas at Miswa: {2} {} {medium Roma tomatoes, chopped}
+Ginisang Sardinas at Miswa: {3} {cans} {(5.5 ounces each) tomato-based Sardines}
+Spicy Tahong: {1/4} {cup} {tomato sauce}
+Beef Mechado: {1} {cup} {tomato sauce}
+Chicken Pochero: {1} {cup} {tomato sauce}
+
+####################
+Sweet Pea
+Paella: {1} {tablespoon} {sweet paprika}
+Chicken Afritada: {1/2} {cup} {frozen sweet peas}
+Morcon: {4} {pieces} {Gherkins sweet pickles}
+Instant Pot Filipino-style Spaghetti: {1} {package} {(24 ounces) sweet-style Filipino spaghetti sauce}
+Taho: {1/2} {cup} {sago pearls}
+Halo-Halo: {1/4} {cup} {sweetened macapuno }
+Corned Beef Spaghetti: {2} {cups} {sweet-style spaghetti sauce}
+Lumpiang Sariwa: {1} {pound} {sweet potatoes (kamote), peeled and diced}
+Maja Blanca Espesyal: {1} {can} {(15 ounces) sweet kernel corn, drained}
+Pancit Canton: {8} {} {snow peas, ends trimmed}
+Pancit Canton: {6} {ounces} {sweet hamonado longganisa or Chinese sausage, sliced thinly on a bias}
+
+####################
+Bacon
+Morcon: {12} {slices} {bacon}
+
+####################
+Green Pea
+
+####################
+Ham
+Graham Balls: {7 1/2} {cups} {graham cracker crumbs}
+
+####################
+Pineapple
+Sweet and Sour Pork: {1} {cup} {pineapple chunks}
+Pork Adobo with Pineapple: {1} {cup} {pineapple juice}
+Pork Adobo with Pineapple: {1} {cup} {pineapple chunks}
+Humba: {1} {cup} {pineapple juice}
+Humba: {1} {cup} {pineapple chunks}
+Homemade Holiday Ham: {1} {can} {(1.3 liters) Pineapple juice}
+Pineapple Pork Ribs: {1} {cup} {pineapple juice}
+Pineapple Pork Ribs: {1} {cup} {pineapple tidbits}
+Chicken Caldereta: {1/2} {cup} {pineapple juice}
+Pininyahang Manok: {1} {cup } {pineapple juice}
+Pininyahang Manok: {1} {cup} {pineapple chunks}
+Pata Hamonado: {1} {cup} {pineapple juice}
+Pata Hamonado: {1} {cup} {Pineapple chunks}
+Pininyahang Baboy: {1} {cup} {pineapple juice}
+Pininyahang Baboy: {1} {cup} {pineapple chunks}
+Pork Embutido: {1} {cup} {crushed pineapple, drained}
+Chicken Tocino: {1} {cup} {pineapple juice}
+
+####################
+Cilantro
+
+####################
+Jalapeno Pepper
+Salt and Pepper Pork Chops: {2} {pieces} {jalapeno, cut thinly}
+
+####################
+Lime
+Siopao Bola-Bola: {} {} {lime}
+
+####################
+Beef Bottom Round
+Morcon: {2} {pounds} {beef bottom round}
+Lengua Estofado: {3} {pounds} {beef tongue}
+Sinigang na Baka sa Bayabas: {2} {pounds} {boneless beef shanks, cut into serving pieces}
+La Paz Batchoy: {2} {pounds} {beef bones, with marrow}
+Corned Beef Spaghetti: {1} {can} {(15 ounces) corned beef}
+Beef Curry: {3} {pounds} {beef chuck roast, cut into 2-inch cubes}
+Beef Afritada: {2} {pounds} {beef chuck, cut into 2- inch cubes}
+Goto: {1} {pound} {beef tripe}
+Goto: {3} {pieces} {beef bones}
+Beef Tapa: {2} {pounds} {beef sirloin, thinly sliced}
+Chicken Adobo: {2} {} {large potatoes, peeled and sliced into rounds}
+Nilagang Baka: {2} {pounds} {beef shanks, bone-in}
+Nilagang Baka: {1} {pound} {beef tendons}
+Pork Menudo: {1/2} {pound} {beef liver, cut into 1-inch cubes}
+Chicken Pastel: {1} {can} {(5 ounces) vienna sausages, cut into 1/2-inch rounds}
+Beef Pares: {2} {pounds} {beef brisket, cut into 1 1/2-inch cubes}
+Filipino Beef Tapa: {3} {pounds} {beef sirloin, thinly sliced}
+Sinigang na Baka: {3} {pounds} {beef short ribs}
+Beef Mechado: {2} {pounds} {chuck roast or top round, cut into 2-inch cubes}
+Bulalo: {3} {pounds} {beef shanks}
+Sinigang na Baboy: {1} {} {6-inch radish (labanos), peeled and sliced to 1/2-inch thick half-rounds}
+
+####################
+Hard-Boiled Egg
+
+####################
+Okra
+Pinakbet Tagalog: {8} {} {okra, ends trimmed}
+Pinakbet with Crispy Lechon: {8} {} {okra, ends trimmed}
+Sinigang na Salmon Belly sa Kamias: {4} {pieces} {okra, ends trimmed}
+Laswa: {8 to 10} {pieces} {okra}
+Sinigang na Baboy: {6} {pieces} {okra, ends trimmed}
+
+####################
+Ground Beef
+
+####################
+Green Bell Pepper
+
+####################
+Gabi
+Laing: {2} {ounces} {dried gabi leaves}
+Sinigang na Baka: {6} {} {gabi, peeled and halved depending on size}
+Sinigang na Baboy: {6} {pieces} {gabi, (peeled and halved depending on size)}
+
+####################
+Radish
+Sinigang na Hito sa Miso: {1} {} {radish, labanos, peeled and cut into 1/-inch thick wedges}
+Kilawing Labanos at Baboy: {1} {} {large labanos, peeled and cut into 1/2-inch strips}
+Sinigang na Salmon Belly sa Kamias: {1} {cup} {labanos (radish), peeled and cut into chunks}
+Sinigang na Baka: {1} {} {(6 inches) radish (labanos), peeled and cut into 1/2-inch thick on a bias}
+
+####################
+Sitaw
+Paella: {4} {cups} {long grain rice}
+Laswa: {1} {} {bunch sitaw}
+
+####################
+Eggplant
+
+####################
+Banana
+
+####################
+Tamarind
+Sinigang na Hito sa Miso: {1} {package} {(1.4 ounces) tamarind base}
+Sinigang na Baka: {15} {} {large tamarind pieces or 1 1/2 (1.41 ounces each) packages tamarind base powder}
+Sinigang na Baboy: {15} {pieces} {large tamarind or 1 1/2 (1.41 ounces each) packages tamarind base powder}
+
+####################
+Bok Choy
+Pata Tim: {1} {bundle} {bok choy, ends trimmed and leaves separated}
+Sinigang na Salmon Belly sa Kamias: {1} {bunch} {bok choy}
+Sinigang na Baboy: {1} {} {bunch bok choy or pechay, ends trimmed and separated into leaves}
+
+####################
+Beef Tongue
+
+####################
+Reserved Broth
+Lengua Estofado: {1} {cup} {reserved broth}
+Chop Suey: {2} {cups} {poaching liquid (reserved from parboiling the vegetables)}
+
+####################
+Catfish
+Sinigang na Hito sa Miso: {1} {} {(about 2 pounds) whole catfish, cleaned, gutted, and cut into parts}
+
+####################
+Mustard Leaves
+Tokwa’t Baboy: {2} {} {bay leaves}
+Lengua Estofado: {2} {} {bay leaves}
+Sinigang na Hito sa Miso: {1} {bunch} {mustard leaves, ends trimmed and cut into 4-inch lengths}
+Chicken and Pork Adobo: {2} {} {bay leaves}
+Loslos: {2} {} {bay leaves}
+Instant Pot Chicken Adobo: {2} {} {bay leaves}
+Kilawing Labanos at Baboy: {2} {} {bay leaves}
+Lechon Kawali: {2} {} {bay leaves}
+Humba: {2} {} {bay leaves}
+Adobo sa Gata: {2} {} {bay leaves}
+Adobong Paa nang Manok (Chicken Feet Adobo): {2} {} {bay leaves}
+Chicken a la King: {2} {} {bay leaves}
+Chicken Adobo: {2} {} {bay leaves}
+Chicken Adobo with Liver Spread: {2} {} {bay leaves}
+Adobong Manok sa Patis: {2} {} {bay leaves}
+Paksiw na Lechon: {3} {} {bay leaves}
+Pork Pochero: {2} {bunches} {pechay, ends trimmed and leaves separated}
+Pata Hamonado: {2} {} {bay leaves}
+Sizzling Sisig: {2} {} {bay leaves}
+Chicken Sopas: {2} {} {bay leaves}
+Chicken Kare-Kare: {1} {bundle} {pechay, ends trimmed and leaves separated}
+Baby Back Ribs with Adobo Glaze: {2} {} {bay leaves}
+Beef Pares: {2} {} {bay leaves}
+Kare-kareng Pata: {1} {bundle} {pechay, ends trimmed and leaves separated}
+Nilagang Baboy: {2} {bunches} {pechay, ends trimmed and leaves separated}
+Beef Mechado: {2} {} {bay leaves}
+Chicken Pochero: {1/2} {} {napa cabbage, end trimmed and leaves halved}
+Chicken Pochero: {1} {bunch} {pechay, ends trimmed and leaves separated}
+Pork Adobo: {2} {} {bay leaves}
+
+####################
+Pork Hamonado Sausage
+Pancit Lomi Guisado: {2} {pieces} {Chinese sausage, sliced thinly on a bias}
+Pork Estofado: {3} {} {Chinese sausage, cut into 1/2-inch thick}
+
+####################
+Cabbage
+Ginisang Repolyo: {1} {} {large cabbage, chopped}
+Miki Bihon: {1} {} {small napa cabbage, chopped}
+Pancit Lomi Guisado: {1/2} {head} {cabbage, sliced thinly}
+Nilagang Baka: {1} {} {small cabbage, cut into wedges}
+Chicken Sopas: {1/2} {small} {napa cabbage, chopped}
+Pancit Bihon Guisado: {1} {} {small cabbage, chopped}
+Chop Suey with Tofu and Shiitake Mushrooms: {1/2} {} {small cabbage, cut into pieces}
+Pancit Canton: {1} {head} { napa cabbage, sliced into 1/2-inch strips}
+Chop Suey: {1/2} {} {cabbage, cut into 1-inch thick strips}
+
+####################
+Chicken Broth
+
+####################
+Peppercorn
+
+####################
+Beef Shanks
+
+####################
+Guava
+
+####################
+Kangkong
+Sinigang na Baka sa Bayabas: {1} {} {small bunch kangkong}
+Sinigang na Baka: {1} {bunch} {kangkong}
+Adobong Kangkong: {1} {} {bunch kangkong}
+
+####################
+Beef Cube
+Ginataang Gulay: {1/2} {} {medium calabasa, peeled, seeded, and cut into 1-inch cubes}
+Halo-Halo: {1/2} {cup} {gulaman cubes or sago}
+Beef Curry: {2} {} {medium potatoes, peeled and cut into 2-inch cubes}
+Adobong Itlog: {2} {} {medium potatoes, peeled and cut into cubes}
+Pork Afritada: {2} {} {medium potatoes, peeled and cubed}
+Chicken Sopas: {2} {} {stalks celery, cubed}
+Pork Menudo: {3} {} {medium potato, peeled and cut into 1-inch cubes}
+Chicken Pastel: {5} {ounces} {(2 pieces) Chorizo de bilbao, cut into 1/2-inch cubes}
+Lumpiang Hubad: {1} {} {large singkamas (jicama), peeled and cut into 1/2-inch cubes}
+Lumpiang Hubad: {2} {} {large kamote, peeled and cut into 1/2-inch cubes}
+Beef Salpicao: {2} {pounds} {ribeye steak, cut into 1-inch cubes}
+Arroz Caldo: {2} {} {bouillon cubes}
+
+####################
+Button Mushroom
+
+####################
+Pechay
+Ginisang Pechay with Oyster Sauce: {4} {pieces} {pechay, about 4 cups, ends trimmed and cut into thirds}
+Kinamatisang Baboy: {2} {bunches} {pechay, cut into thirds}
+Bulalo: {1} {} {bunch pechay}
+
+####################
+Goat Meat
+Pinakbet Tagalog: {1/2} {} {small kalabasa, peeled and cut into pieces}
+Pinakbet Tagalog: {1} {} {medium ampalaya (bittermelon), seeded, halved and cut into 1-inch thick}
+Lengua Estofado: {2} {} {medium potatoes, peeled and sliced into 1/2-inch thick}
+Buko Pandan Salad: {4} {drops} {pandan extract}
+Lugaw at Tokwa: {2} {} {shallots, peeled and chopped}
+Puto Maya and Sikwate: {} {} {Manila mangoes, peeled and sliced}
+Pinakbet with Crispy Lechon: {1/2} {} {small kalabasa (kabocha), peeled and cut into pieces}
+Pinakbet with Crispy Lechon: {1} {} {large bitter melon, seeded, halved, and cut into 1-inch thick}
+Ensaladang Pipino: {2} {} {large cucumbers, washed and sliced thinly}
+Taho: {1} {} {pandan leaf, tied into a knot}
+Pancit Lomi Guisado: {1} {} {chayote, peeled and sliced into thin chunks}
+Tinapa Fried Rice: {4} {pieces} {tinapa galunggong, deboned and flaked}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {head} {peeled and minced}
+Pineapple Pork Ribs: {1} {} {large potato, peeled and cut into chunks}
+Ukoy: {1/2} {} {small kalabasa, peeled, seeded and julienned}
+Ukoy: {3} {} {shallots, peeled and sliced thinly}
+Lechon Manok: {4} {} {shallots, peeled and minced}
+Nilagang Baka: {3} {} {corn, husked and cut into halves}
+Sizzling Sisig: {2} {pounds} {pig face (snouts, ears, and jowls)}
+Ginataang Sigarilyas at Kalabasa: {1/2} {} {small kalabasa, peeled, seeded, and cut into chunks}
+Beef Pares: {1} {tablespoon} {salt and more as needed}
+Nilagang Baboy: {1} {} {small calabasa, peeled, seeded and cut into 2-inch chunks}
+
+####################
+Pork Shoulder
+
+####################
+Pork Liver
+Chicken Adobo with Liver Spread: {1/4} {cup} {liver spread}
+Chicken Caldereta: {1/2} {cup} {liver spread}
+Paksiw na Lechon: {1/2} {cup} {liver spread}
+Batsui: {1/3} {pound} {liver, cut into small strips}
+Chicken Bistek: {2} {tablespoons} {liver spread}
+Sizzling Sisig: {1/2} {cup} {liver spread}
+
+####################
+Garbanzo Bean
+
+####################
+Egg Yolk
+
+####################
+Tofu
+Tokwa’t Baboy: {1} {package} {(16 ounces) block firm tofu}
+Tokwa’t Baboy with Tausi: {1} {package} {(12 ounces) firm tofu}
+Lugaw at Tokwa: {2} {packages} {(19 ounces each) firm tofu}
+Taho: {2} {package} {(12 ounces each) soft silken tofu}
+Sizzling Tofu: {2} {packages} {(12 ounces each) firm tofu}
+Lumpiang Hubad: {1} {package} {(14 ounces) firm tofu}
+Chop Suey with Tofu and Shiitake Mushrooms: {1} {package} {(12 ounces) tofu}
+
+####################
+Tilapia Fillet
+Sweet and Sour Fish: {1} {pound} {tilapia fillets, cut into 2-inch pieces}
+
+####################
+Salmon Fillet
+
+####################
+Coconut
+
+####################
+Sayote
+
+####################
+Chicken Skin
+
+####################
+Egg White
+Burger Steak: {2} {slices} {white bread, torn into small pieces}
+
+####################
+Bangus Belly
+Relyenong Bangus: {1} {} {large whole bangus}
+
+####################
+Chicken Thigh
+
+####################
+Saba Banana
+
+####################
+Smelt Fish
+Bopis: {1} {tablespoon} {fish sauce}
+Ginataang Puso ng Saging: {1} {tablespoon} {fish sauce}
+Lumpiang Ubod: {1} {tablespoon} {fish sauce}
+Ginisang Togue: {1} {tablespoon} {fish sauce}
+Kilawing Puso ng Saging: {1} {tablespoon} {fish sauce}
+Shrimp with Oyster Sauce: {1} {teaspoon} {fish sauce}
+Chicken Afritada: {1} {tablespoon} {fish sauce}
+Sinigang na Hito sa Miso: {1} {tablespoon} {fish sauce to taste}
+Sinigang na Baka sa Bayabas: {1} {tablespoon} {fish sauce}
+Kinamatisang Baboy: {1} {tablespoon} {fish sauce}
+Pinakbet with Crispy Lechon: {2} {tablespoons} {fish sauce}
+Ensaladang Pipino: {2} {tablespoons} {fish sauce}
+Ginataang Langka at Danggit: {1} {tablespoon} {fish sauce}
+Kilawing Labanos at Baboy: {1} {tablespoon} {fish sauce}
+Beef Curry: {1} {tablespoon} {fish sauce}
+Miki Bihon: {1} {cup} {fish balls, halved}
+Lemongrass Roasted Chicken: {1/2} {cup} {fish sauce}
+Ginataang Munggo at Baboy: {1} {tablespoon} {fish sauce}
+Ginisang Munggo at Chicharon: {1} {tablespoon} {fish sauce}
+Sotanghon at Upo Soup: {1} {tablespoon} {fish sauce}
+Ginataang Talong: {1} {tablespoon} {fish sauce}
+Beef Afritada: {1} {tablespoon} {fish sauce}
+Beef Tapa: {1/2} {cup} {fish sauce}
+Lumpiang Sariwa: {2} {tablespoons} {fish sauce}
+Ukoy: {1} {teaspoon} {fish sauce}
+Adobong Manok sa Patis: {1/4} {cup} {fish sauce}
+Lechon Manok: {1/4} {cup} {fish sauce}
+Inihaw na Liempo: {1/4} {cup} {fish sauce}
+Batsui: {3} {tablespoons} {fish sauce}
+Pork Pochero: {1} {tablespoon} {fish sauce}
+Dinuguan: {1} {tablespoon} {fish sauce}
+Ginataang Hipon: {1} {tablespoon} {fish sauce}
+Ginataang Kalabasa, Sitaw at Hipon: {1} {tablespoon} {fish sauce}
+Nilagang Baka: {2} {tablespoons} {fish sauce}
+Bangus sa Tausi: {1} {tablespoon} {fish sauce}
+Pininyahang Baboy: {1} {tablespoon} {fish sauce}
+Pork Afritada: {1} {tablespoon} {fish sauce}
+Pork Menudo: {1} {tablespoon} {fish sauce}
+Chicken Kare-Kare: {1} {tablespoon} {fish sauce}
+Lumpiang Hubad: {1} {tablespoon} {fish sauce}
+Sinigang na Salmon Belly sa Kamias: {1} {tablespoon} {fish sauce}
+Ginataang Sigarilyas at Kalabasa: {1} {tablespoon} {fish sauce}
+Ginisang Sardinas at Miswa: {1} {tablespoon} {fish sauce}
+Kare-kareng Pata: {2} {tablespoons} {fish sauce}
+Sinigang na Baka: {1} {tablespoon} {fish sauce}
+Pancit Canton: {4} {ounces} {(about 7 to 8 pieces) fish balls, halved}
+Batchoy Tagalog: {2} {tablespoons} {fish sauce}
+Nilagang Baboy: {1} {tablespoon} {fish sauce}
+Chicken Pochero: {1} {tablespoon} {fish sauce}
+Bulalo: {2} {tablespoons} {fish sauce}
+Arroz Caldo: {2} {tablespoons} {fish sauce}
+Bagis: {1} {tablespoon} {fish sauce}
+Tinolang Manok (Chicken Tinola): {2} {tablespoons} {fish sauce}
+Sinigang na Baboy: {2} {tablespoons} {fish sauce}
+
+####################
+Pork Bone
+
+####################
+Beef Bone
+
+####################
+Pork Intestine
+
+####################
+Miki Noodles
+Filipino-style Lasagna: {15} {pieces} {uncooked lasagna noodles}
+Miki Bihon: {1} {package} {(16 ounces) miki noodles}
+Sotanghon at Upo Soup: {2} {ounces} {sotanghon (cellophane noodles)}
+Pancit Bihon Guisado: {8} {ounces} {rice noodles}
+Ginisang Sardinas at Miswa: {2} {ounces} {miswa noodles}
+
+####################
+Shrimp Heads/Shells
+
+####################
+Celery Stalk
+Pancit Bihon Guisado: {2} {} {stalks celery, sliced thinly on a bias}
+Pancit Canton: {1/2} {bunch} { Kinchay (Chinese celery), chopped}
+
+####################
+White Bread
+Baby Back Ribs with Adobo Glaze: {1/2} {cup} {panko breadcrumbs}
+
+####################
+Milk
+
+####################
+Ampalaya
+Laswa: {2} {} {medium ampalaya}
+
+####################
+Mango
+Halo-Halo: {4} {scoops} {ice cream (mango, ube, or vanilla)}
+
+####################
+Squid
+Sisig Pusit: {2} {} {(about 2 pounds) jumbo squid}
+Inihaw na Pusit (Grilled Squid): {2} {} {(about 2 pounds) jumbo squid}
+Ginataang Seafood: {2} {pounds} {squid}
+
+####################
+Pork Tenderloin
+
+####################
+Boneless Bangus
+
+####################
+Pork Face
+
+####################
+Pig Brain
+
+####################
+Pork Spare Rib
+Loslos: {3} {pounds} {baby back ribs, cut into individual ribs}
+Pineapple Pork Ribs: {2} {pounds} {baby back ribs, cut into serving portions}
+
+####################
+Pumpkin
+Laswa: {1/2} {} {small calabasa}
+
+####################
+Lechon Kawali
+Pinakbet with Crispy Lechon: {2} {cups} {lechon kawali,  cut into 1 1/2-inch pieces}
+Crispy Sisig: {4} {cups} {lechon kawali, chopped}
+Paksiw na Lechon: {2} {cups} {lechon sauce, homemade or store-bought }
+Paksiw na Lechon: {3} {pounds} {(about 4 cups) leftover lechon or lechon kawali, chopped into 1-inch pieces}
+
+####################
+Kamote Leaf
+Tokwa’t Baboy with Tausi: {1} {} {bay leaf}
+
+####################
+Kamias
+Sinaing na Tulingan: {1} {cup} {dried kamias (kalamyas or bilimbi)}
+Sinigang na Salmon Belly sa Kamias: {2} {cups} {kamias}
+
+####################
+Salmon Belly
+
+####################
+Seafood Soup Base
+Crab and Corn Soup: {1} {tablespoon} {seafood soup base}
+
+####################
+Crab Meat
+Crab and Corn Soup: {1/4} {cup} {imitation crab, chopped}
+Ginataang Seafood: {2} {pounds} {(about 4 to 5 pieces) crab}
+
+####################
+Corn Kernel
+Fried Okra: {1/4} {cup} {cornstarch}
+Sweet and Sour Fish: {1/2} {cup} {cornstarch}
+Sweet and Sour Pork: {1/2} {cup} {cornstarch}
+Crab and Corn Soup: {1} {cup} {corn kernels}
+Crab and Corn Soup: {2} {tablespoons} {cornstarch}
+Crispy Tahong (Deep-Fried Mussels): {1/4} {cup} {cornstarch}
+Pancit Lomi Guisado: {2} {teaspoons} {corn starch}
+Pancit Malabon: {1} {package} {(16 ounces) thick cornstarch or rice noodle sticks}
+Crispy Chicken Livers a la Bistek: {1/4} {cup} {cornstarch}
+Siopao Asado: {1} {tablespoon} {cornstarch}
+Escabeche Lapu Lapu: {1} {tablespoons} {cornstarch}
+Ukoy: {1} {cup} {cornstarch}
+Maja Blanca Espesyal: {1} {cup} {cornstarch}
+Pork Siomai: {1} {tablespoon} {cornstarch}
+Filipino-style Fried Chicken: {1/4} {cup} {corn starch}
+Chop Suey with Tofu and Shiitake Mushrooms: {1} {tablespoon} {corn starch}
+Salt and Pepper Pork Chops: {3/4} {cup} {cornstarch}
+Camaron Rebosado: {1/2} {cup} {corn starch}
+Bulalo: {3} {} {corn}
+Chop Suey: {5} {pieces} {baby corn, halved crosswise}
+Chop Suey: {1} {tablespoon} {corn starch}
+
+####################
+Imitation Crab
+
+####################
+Chicken Breast
+
+####################
+Sausage
+
+####################
+Pandan Leaf
+
+####################
+Asparagus
+
+####################
+Ube Halaya
+Halo-Halo: {1/2} {cup} {ube halaya}
+
+####################
+Lechen Flan
+Halo-Halo: {1} {cup} {leche flan}
+
+####################
+Cremini Mushroom
+
+####################
+Chow Mein Noodles
+
+####################
+Celery
+
+####################
+Milkfish
+
+####################
+Baby Back Ribs
+
+####################
+Honeycomb Tripe
+
+####################
+Ox Feet
+
+####################
+Beef Broth
+
+####################
+Salay Salay Fish
+
+####################
+Beef Chuck Roast
+
+####################
+Chicken Stock
+
+####################
+Fish Ball
+
+####################
+Lemongrass Stalk
+
+####################
+Lemongrass
+
+####################
+Buttermilk
+
+####################
+Pork Butt
+
+####################
+Spinach
+
+####################
+Chicharon
+
+####################
+Smoked Fish
+
+####################
+Bottle Gourd
+Sotanghon at Upo Soup: {1} {} {medium upo}
+
+####################
+Grape Tomato
+
+####################
+Pear
+
+####################
+Top Round
+
+####################
+Sirloin
+
+####################
+Mozarella Cheese
+Bibingka: {2} {ounces} {cream cheese, sliced thinly (you can substitute kesong puti or queso de bola)}
+Morcon: {4} {ounces} {cheddar cheese, sliced lengthwise into strips}
+Chicken Caldereta: {1/2} {cup} {Eden cheese or any quick melt cheese}
+
+####################
+Salsa
+
+####################
+Sour Cream
+Avocado Sago Jelly: {1} {cup} {all-purpose cream}
+Buko Pandan Salad: {1} {can} {(14 ounces) table cream}
+Graham Balls: {1} {can} {(12.8 ounces) Nestle's all-purpose cream}
+Chicken a la King: {1} {cup} {heavy cream}
+Pininyahang Manok: {1} {cup} {table cream}
+Pininyahang Baboy: {1 } {cup} {table cream}
+
+####################
+Yakisoba Noodle
+
+####################
+Chicken Liver
+
+####################
+Cooked Rice
+Avocado Sago Jelly: {1} {cup} {cooked mini sago}
+Bibingka: {2} {cups} {rice flour}
+Bibingka: {1/2} {cup} {glutinous rice flour}
+Champorado: {1} {cup} {glutinous rice}
+Suman Malagkit with Coconut Caramel Sauce: {3} {cups} {glutinous rice}
+Instant Pot Filipino-style Spaghetti: {1} {package} {(12 ounces) uncooked spaghetti}
+Binagoongan Fried Rice: {4} {cups} {cooked cold rice}
+Lugaw at Tokwa: {1} {cup} {glutinous rice}
+Puto Maya and Sikwate: {2} {cups} {glutinous rice}
+Corned Beef Spaghetti: {1} {package} {(16 ounces) uncooked spaghetti}
+Tinapa Fried Rice: {4} {cups} {cold cooked rice}
+Sushi Bake: {4} {cups} {cooked short-grain rice}
+Sushi Bake: {2} {tablespoons} {rice vinegar}
+Batsui: {1} {cup} {uncooked elbow macaroni}
+Chicken Sopas: {2} {cups} {uncooked elbow macaroni pasta}
+Biko: {2} {cups} {glutinous rice}
+Chicken Kare-Kare: {2} {tablespoons} {rice flour}
+Kare-kareng Pata: {¼} {cup} {rice flour}
+Arroz Caldo: {1} {cup} {uncooked rice}
+
+####################
+Beef Sirloin
+
+####################
+Pork Ham
+
+####################
+Edamame
+
+####################
+Strawberry
+
+####################
+Chicken Feet
+
+####################
+Chicken Wing
+
+####################
+Beef Tripe
+
+####################
+Grouper
+Escabeche Lapu Lapu: {1} {} {(2 to 3 pounds) whole Lapu-Lapu}
+
+####################
+Furikake
+Sushi Bake: {1/4} {cup} {Furikake}
+
+####################
+Unsalted Butter
+
+####################
+Spam
+
+####################
+Papaya
+
+####################
+Ube
+
+####################
+Yam
+
+####################
+Patola
+Laswa: {2} {} {medium patola}
+
+####################
+Lechon Sauce
+Shrimp with Oyster Sauce: {2} {tablespoons} {oyster sauce}
+Morcon: {1/2} {cup} {soy sauce}
+Lengua Estofado: {2} {tablespoons} {soy sauce}
+Ginisang Repolyo: {1} {tablespoon} {oyster sauce}
+Ginisang Pechay with Oyster Sauce: {1} {tablespoon} {oyster sauce}
+Sweet and Sour Fish: {2} {tablespoons} {soy sauce}
+Ginisang Sayote: {2} {tablespoons} {oyster sauce}
+Ginisang Sayote with Chicken: {2} {tablespoons} {oyster sauce}
+Lugaw at Tokwa: {¼} {cup} {soy sauce}
+Adobong Talong: {1/4} {cup} {soy sauce}
+Sisig Pusit: {2} {tablespoons} {Worcestershire sauce}
+Sweet and Sour Pork: {2} {tablespoons} {soy sauce}
+Chicken and Pork Adobo: {1/2} {cup} {soy sauce}
+Loslos: {1/2} {cup} {soy sauce}
+Instant Pot Chicken Adobo: {1/4} {cup} {soy sauce}
+Grilled Tuna Belly: {2} {tablespoons} {oyster sauce}
+Pancit Lomi Guisado: {2} {tablespoons} {oyster sauce}
+Pancit Lomi Guisado: {1} {tablespoon} {soy sauce}
+Adobong Itlog: {1/4} {cup} {soy sauce}
+Pork Adobo with Pineapple: {1/2} {cup} {soy sauce}
+Humba: {1/2} {cup} {soy sauce}
+Adobo sa Gata: {1/4} {cup} {soy sauce}
+Crispy Chicken Livers a la Bistek: {1/2} {cup} {soy sauce}
+Tinapa Fried Rice: {2} {tablespoons} {soy sauce}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1/2} {cup} {soy sauce}
+Pineapple Pork Ribs: {1/4} {cup} {soy sauce}
+Siopao Asado: {1/3} {cup} {soy sauce}
+Siopao Asado: {2} {tablespoons} {oyster sauce}
+Chicken Adobo: {1/4} {cup} {soy sauce}
+Chicken Adobo with Liver Spread: {1/2} {cup} {soy sauce}
+Pork Estofado: {1/2} {cup} {soy sauce}
+Chicken Caldereta: {1/4} {cup} {soy sauce}
+Lechon Manok: {1/4} {cup} {soy sauce}
+Inihaw na Liempo: {2} {tablespoons} {oyster sauce}
+Sizzling Tofu: {1/4} {cup} {Knorr seasoning sauce}
+Chicken Tapa: {1/2} {cup} {soy sauce}
+Chicken Bistek: {1/4} {cup} {soy sauce}
+Adobong Sitaw with Pork: {1/4} {cup} {soy sauce}
+Pork Siomai: {1} {tablespoon} {soy sauce}
+Pata Hamonado: {1/2} {cup} {soy sauce}
+Sizzling Sisig: {1/4} {cup } {soy sauce}
+Chicken Pastel: {2} {tablespoons} {soy sauce}
+Chicken Sisig: {1} {tablespoon} {soy sauce}
+Filipino Pork Barbecue: {2} {cups} {soy sauce}
+Filipino Pork Barbecue: {2} {cups} {oyster sauce}
+Filipino-style Fried Chicken: {1/2} {cup} {soy sauce}
+Pancit Bihon Guisado: {1/4} {cup} {soy sauce}
+Pata Tim: {1} {cup} {soy sauce}
+Lumpia Shanghai: {1} {tablespoon} {soy sauce}
+Baby Back Ribs with Adobo Glaze: {1/2} {cup} {soy sauce}
+Pork Bistek: {1/4} {cup} {soy sauce}
+Filipino Beef Tapa: {1/2} {cup} {soy sauce}
+Pancit Canton: {2} {tablespoons} {oyster sauce}
+Pancit Canton: {2} {tablespoons} {soy sauce}
+Beef Salpicao: {1/4} {cup} {Worcestershire sauce}
+Beef Salpicao: {1/4} {cup} {soy sauce}
+Longganisa: {2} {tablespoons} {soy sauce}
+Adobong Kangkong: {1/4} {cup} {soy sauce}
+Beef Mechado: {1/4} {cup} {soy sauce}
+Relyenong Bangus: {2} {tablespoons} {soy sauce}
+Relyenong Bangus: {2} {tablespoons} {oyster sauce}
+Chop Suey: {2} {tablespoons} {oyster sauce}
+Pork Adobo: {1/2} {cup} {soy sauce}
+
+####################
+Pork Shank
+
+####################
+Orange Concentrate
+
+####################
+Mango Nectar
+
+####################
+Pork Kidney
+
+####################
+Pork Pancreas
+
+####################
+Orange Juice
+
+####################
+Cassava
+
+####################
+Pork Blood
+Batchoy Tagalog: {1/4} {pound} {coagulated blood}
+
+####################
+Beef Tendon
+
+####################
+Corn Cob
+
+####################
+Quail Egg
+
+####################
+Jumbo Refrigerated Biscuit
+
+####################
+Meatball
+
+####################
+Golden Pompano
+
+####################
+Chicken Cube
+
+####################
+Pandesal Roll
+Banana Turon: {24} {} {spring roll wrappers}
+Crispy Tuna Shanghai: {12} {} {spring roll wrappers}
+Lumpia Shanghai: {20} {pieces} {spring roll wrappers}
+
+####################
+Pork Rind
+
+####################
+Pig Face
+
+####################
+Snow pea
+
+####################
+Balut
+
+####################
+Chuck Steak
+
+####################
+Red Mung Bean
+
+####################
+Lemon Juice
+
+####################
+Oyster
+
+####################
+Pork Lung
+
+####################
+Mung Bean Sprout
+
+####################
+Luncheon Meat
+
+####################
+Singkamas
+
+####################
+Tilapia
+
+####################
+Pork Leg
+
+####################
+Lychee Syrup
+
+####################
+Sushi-grade Ahi
+
+####################
+Sigarilyas
+
+####################
+Pan de Leche
+Bibingka: {1} {tablespoon} {baking powder}
+Paella: {5} {ounces} {chorizo de bilbao, sliced thickly}
+Buko Pandan Salad: {1} {bottle} {(12 ounces) Nata de coco, drained}
+Halo-Halo: {1/2} {cup} {Nata de coco, drained well}
+Loslos: {} {} {canola oil for deep-frying}
+Beef Curry: {2} {tablespoons} {curry powder}
+Siopao Bola-Bola: {2} {teaspoons} {baking powder}
+Pork Pochero: {2} {pieces} {Chorizo de bilbao, cut into chunks}
+Pata Hamonado: {1/4} {cup} {apple cider vinegar}
+Yema Cake: {2} {teaspoons} {baking powder}
+Chicken Kare-Kare: {1} {teaspoon} {annatto powder}
+Filipino-style Fried Chicken: {1} {tablespoon} {baking powder}
+Dulce de Leche FLan: {1} {can} {(14 ounces) dulce de leche}
+Kare-kareng Pata: {1 1/2} {tablespoons} {annatto powder}
+Kutsinta: {1} {tablespoon} {atsuete powder}
+Pancit Canton: {2} {packages} {(8 ounces each) pancit canton}
+Chicken Pochero: {2} {} {chorizo de bilbao, cut into 1-inch thick pieces}
+
+####################
+Pandesal Rolls
+
+####################
+Silver Fish
+
+####################
+Pork Ear
+
+####################
+Beef Brisket
+
+####################
+Wonton
+
+####################
+Smoked Round Scad
+
+####################
+Pork Heart
+
+####################
+Blue Crab
+
+####################
+Coagulated Blood
+
+####################
+Dashi
+
+####################
+Udon
+
+####################
+Longganisa
+
+####################
+Chicken Drummette
+
+####################
+Beef Neck Bone
+
+####################
+Labong
+
+####################
+Gizzard
+
+####################
+Oxtail
+
+####################
+Frog Leg
+
+####################
+Cauliflower
+Chop Suey: {1/2} {} {cauliflower, cut into florets}
+
+####################
+Jelly
+
+####################
+Sugar
+Avocado Sago Jelly: {1/2} {cup} {sugar}
+Bibingka: {1} {cup} {sugar}
+Champorado: {1/2} {cup} {sugar}
+Minatamis na Langka: {1} {cup} {sugar}
+Suman Malagkit with Coconut Caramel Sauce: {1} {cup} {sugar}
+Instant Pot Filipino-style Spaghetti: {1} {teaspoon} {sugar}
+Lengua Estofado: {1} {tablespoon} {sugar}
+Buko Pandan Salad: {1} {cup} {sugar}
+Baked Cheese Shrimp: {1} {teaspoon} {sugar}
+Banana Turon: {1} {cup} {sugar}
+Lugaw at Tokwa: {1} {tablespoon} {sugar}
+La Paz Batchoy: {2} {tablespoons} {sugar}
+Puto Maya and Sikwate: {1/2} {cup} {sugar}
+Sisig Pusit: {1} {teaspoon} {brown sugar}
+Monay: {1/4} {cup} {sugar}
+Pastillas de Leche: {1} {cup} {sugar}
+Ensaladang Pipino: {1} {tablespoon} {sugar}
+Taho: {1} {cup} {dark brown sugar}
+Lengua de Gato: {1} {cup} {sugar}
+Instant Pot Chicken Adobo: {1} {teaspoon} {brown sugar}
+Lemongrass Roasted Chicken: {2} {tablespoons} {brown sugar}
+Humba: {1} {tablespoon} {brown sugar}
+Homemade Holiday Ham: {3 1/4} {cup} {brown sugar}
+Beef Tapa: {3/4 } {cup} {brown sugar}
+Sushi Bake: {1} {teaspoon} {sugar}
+Siopao Bola-Bola: {2} {tablespoons} {sugar}
+Siopao Bola-Bola: {100} {grams} {sugar}
+Siopao Asado: {3} {tablespoons} {sugar}
+Escabeche Lapu Lapu: {1/4} {cup} {sugar}
+Chicken Inasal: {1/4} {cup} {brown sugar}
+Lumpiang Sariwa: {1} {tablespoon} {sugar}
+Leche Flan: {9} {tablespoons} {sugar}
+Pork Estofado: {3} {tablespoons} {brown sugar}
+Maja Blanca Espesyal: {3/4} {cup} {sugar}
+Paksiw na Lechon: {3/4} {cup} {brown sugar}
+Lechon Manok: {3} {tablespoons} {brown sugar}
+Inihaw na Liempo: {2} {tablespoons} {brown sugar}
+Chicken Tapa: {2} {tablespoons} {brown sugar}
+Dinuguan: {1} {tablespoon} {brown sugar}
+Pork Siomai: {1/2} {teaspoon} {sugar}
+Pata Hamonado: {2} {tablespoons} {brown sugar}
+Biko: {1} {cup} {dark brown sugar}
+Binagoongan Baboy: {1} {teaspoon} {sugar (see recipe notes)}
+Yema Cake: {1/2} {cup} {sugar}
+Filipino Pork Barbecue: {3} {cups} {brown sugar}
+Dulce de Leche FLan: {1} {cup} {sugar}
+Pata Tim: {1/2} {cup} {sugar}
+Baby Back Ribs with Adobo Glaze: {1/2} {cup} {brown sugar}
+Kutsinta: {1 1/2} {cups} {dark brown sugar}
+Filipino Beef Tapa: {2} {tablespoons} {sugar}
+Beef Salpicao: {1} {teaspoon} {brown sugar}
+Chicken Tocino: {1/2} {cup} {sugar}
+Buchi: {1/2} {cup} {sugar}
+Longganisa: {1/2} {cup} {brown sugar}
+
+####################
+Water
+
+####################
+Condensed Milk
+
+####################
+All-Purpose Cream
+Champorado: {4} {pieces} {tablea chocolate}
+Monay: {4} {cups} {all-purpose flour}
+Lengua de Gato: {1 3/4} {cup} {all-purpose flour}
+Ginisang Munggo at Chicharon: {1} {tablespoon} {vegetable oil}
+Siopao Bola-Bola: {500} {grams} {all-purpose flour}
+Siopao Bola-Bola: {2} {tablespoons} {vegetable oil}
+Pancit Bihon Guisado: {2} {tablespoons} {vegetable oil}
+
+####################
+Sago
+
+####################
+Rice Flour
+Morcon: {1/2} {cup} {flour}
+Fried Okra: {3/4} {cup} {flour}
+Sweet and Sour Fish: {1/2} {cup} {flour}
+Sweet and Sour Pork: {1/2} {cup} {flour}
+Crispy Tahong (Deep-Fried Mussels): {3/4} {cup} {flour}
+Loslos: {1} {cup} {flour}
+Crispy Chicken Livers a la Bistek: {3/4} {cup} {flour}
+Chicken a la King: {3} {tablespoons} {flour}
+Ukoy: {1/2} {cup} {flour}
+Bangus sa Tausi: {1/2} {cup} {flour}
+Chicken Pastel: {2} {tablespoons} {flour}
+Yema Cake: {1} {cup} {cake flour}
+Filipino-style Fried Chicken: {3/4} {cup} {flour}
+Kutsinta: {1 1/2} {cups} {flour}
+Kutsinta: {1/2} {cup} {tapioca flour}
+Relyenong Bangus: {1/2} {cup} {flour}
+Camaron Rebosado: {1/2} {cup} {flour}
+
+####################
+Baking Powder
+
+####################
+Salt
+Bopis: {1} {teaspoon} {salt}
+Tokwa’t Baboy: {1} {tablespoon} {salt}
+Bibingka: {1} {teaspoon} {salt}
+Ginataang Puso ng Saging: {2} {tablespoons} {rock salt}
+Shrimp with Oyster Sauce: {} {} {salt to taste}
+Fried Okra: {1/2} {teaspoon} {salt}
+Suman Malagkit with Coconut Caramel Sauce: {1} {teaspoon} {salt}
+Lengua Estofado: {2} {tablespoons} {salt}
+Chicken Skin Chicharon: {1} {teaspoon} {salt}
+Lugaw at Tokwa: {2} {teaspoons} {salt}
+Lugaw at Tokwa: {1/2} {teaspoon} {salt}
+Puto Maya and Sikwate: {1/2} {teaspoon} {salt}
+Monay: {1} {teaspoon } {salt}
+Ensaladang Pipino: {1} {teaspoon} {salt}
+Sinaing na Tulingan: {} {} {rock salt}
+Crispy Tahong (Deep-Fried Mussels): {1} {teaspoon} {salt}
+Lengua de Gato: {1/4} {teaspoon} {salt}
+Paksiw na Bangus: {1 1/2} {teaspoons} {salt}
+Loslos: {1/2} {teaspoon} {salt}
+Grilled Tuna Belly: {1/2} {teaspoon} {salt}
+Lechon Kawali: {2} {tablespoons} {salt}
+Lemongrass Roasted Chicken: {2} {teaspoons} {salt}
+Slow Cooker Lechon: {1} {tablespoon} {salt}
+Humba: {} {} {salt to taste}
+Adobo sa Gata: {} {} {salt to taste}
+Crispy Chicken Livers a la Bistek: {2} {teaspoons} {salt}
+Homemade Holiday Ham: {1/2} {cup} {rock salt}
+Homemade Holiday Ham: {1} {tablespoon} {Prague salt #1}
+Adobong Paa nang Manok (Chicken Feet Adobo): {} {} {rock salt}
+Goto: {} {} {rock salt}
+Goto: {} {} {salt}
+Sushi Bake: {1} {teaspoon} {salt}
+Chicken a la King: {1} {teaspoon} {salt}
+Siopao Bola-Bola: {1/2} {teaspoon} {salt}
+Chicken Inasal: {1 1/2} {teaspoons} {salt}
+Ukoy: {1} {teaspoon} {salt}
+Adobong Manok sa Patis: {} {} {salt to taste}
+Inihaw na Liempo: {1} {teaspoon} {salt}
+Chicken Tapa: {1/2} {teaspoon} {salt}
+Chicken Bistek: {} {} {salt to taste}
+Ginataang Kalabasa, Sitaw at Hipon: {} {} {salt to taste}
+Nilagang Baka: {} {} {salt to taste}
+Laing: {} {} {salt to taste}
+Pork Siomai: {1} {teaspoon} {salt}
+Pork Chicharon: {1} {tablespoon} {salt}
+Sizzling Sisig: {1} {tablespoon} {salt}
+Biko: {1/2} {teaspoon} {salt}
+Filipino-style Fried Chicken: {1} {teaspoon} {salt}
+Sinigang na Salmon Belly sa Kamias: {} {} {salt to taste}
+Lumpia Shanghai: {1} {teaspoon} {salt}
+Burger Steak: {1} {teaspoon} {salt}
+Pork Embutido: {2} {teaspoons} {salt}
+Pork Bistek: {} {} {salt to taste}
+Filipino Beef Tapa: {1/2} {teaspoon} {salt}
+Salt and Pepper Pork Chops: {1 1/2} {teaspoons} {salt}
+Chicken Tocino: {1} {tablespoon} {salt}
+Nilagang Baboy: {} {} {salt to taste}
+Longganisa: {1} {tablespoon} {salt}
+Camaron Rebosado: {1-1/2} {teaspoons} {salt}
+Bulalo: {} {} {salt to taste}
+Bagis: {} {} {salt to taste}
+Pork Adobo: {1} {teaspoon} {salt}
+
+####################
+Cream Cheese
+
+####################
+Canola oil
+Bopis: {2} {tablespoons} {canola oil}
+Chicken Bicol Express: {1} {tablespoon} {canola oil}
+Pinakbet Tagalog: {1} {tablespoon} {canola oil}
+Tokwa’t Baboy: {1/2} {cup} {oil}
+Ginataang Puso ng Saging: {1} {tablespoon} {canola oil}
+Paella: {2} {tablespoons} {olive oil}
+Lumpiang Ubod: {1} {tablespoon} {canola oil}
+Ginisang Togue: {1} {tablespoon} {canola oil}
+Kilawing Puso ng Saging: {1} {tablespoon} {canola oil}
+Shrimp with Oyster Sauce: {1} {tablespoon} {canola oil}
+Chicken Afritada: {1/4} {cup} {canola oil}
+Morcon: {1/4} {cup} {oil}
+Fried Okra: {} {} {canola oil}
+Instant Pot Filipino-style Spaghetti: {1} {tablespoon} {canola or olive oil}
+Lengua Estofado: {1/4} {cup} {canola }
+Sinigang na Hito sa Miso: {1} {tablespoon} {canola oil}
+Ginisang Repolyo: {1} {tablespoon} {canola oil}
+Ginisang Pechay with Oyster Sauce: {1} {tablespoon} {canola oil}
+Tokwa’t Baboy with Tausi: {} {} {canola oil}
+Sweet and Sour Fish: {} {} {canola oil}
+Ginisang Sayote: {1} {tablespoon} {canola oil}
+Chicken Skin Chicharon: {} {} {lard or canola oil}
+Ginisang Sayote with Chicken: {1} {tablespoon} {canola oil}
+Banana Turon: {} {} {canola oil}
+Binagoongan Fried Rice: {} {} {canola oil}
+Lugaw at Tokwa: {1} {cup} {canola oil}
+Crispy Tuna Shanghai: {2} {cans} {(6.35 ounces each) tuna flakes in oil, drained well}
+Crispy Tuna Shanghai: {} {} {canola oil}
+Adobong Talong: {4} {tablespoons} {canola oil}
+Sisig Pusit: {1} {tablespoon} {canola oil}
+Sweet and Sour Pork: {} {} {canola oil}
+Kinamatisang Baboy: {1} {tablespoon} {canola oil}
+Pinakbet with Crispy Lechon: {1} {tablespoon} {canola oil}
+Ensaladang Pipino: {1} {teaspoon} {sesame oil}
+Ginataang Gulay: {1} {tablespoon} {canola oil}
+Crispy Tahong (Deep-Fried Mussels): {} {} {canola oil}
+Chicken and Pork Adobo: {1} {tablespoon} {canola oil}
+Paksiw na Bangus: {1} {teaspoon} {canola oil}
+Instant Pot Chicken Adobo: {1} {tablespoon} {olive oil}
+Grilled Tuna Belly: {1} {tablespoon} {sesame oil}
+Ginataang Langka at Danggit: {} {} {canola oil}
+Kilawing Labanos at Baboy: {1} {tablespoon} {oil}
+Corned Beef Spaghetti: {1} {tablespoon} {canola oil}
+Beef Curry: {1/4} {cup} {canola oil}
+Miki Bihon: {} {} {canola oil}
+Pancit Lomi Guisado: {3} {tablespoons} {canola oil}
+Lechon Kawali: {} {} {canola oil}
+Ginataang Munggo at Baboy: {1} {tablespoon} {canola oil}
+Sotanghon at Upo Soup: {1} {tablespoon} {canola oil}
+Ginataang Talong: {} {} {canola oil}
+Adobong Itlog: {1/4} {cup} {canola oil}
+Pork Adobo with Pineapple: {1} {tablespoon} {canola oil}
+Beef Afritada: {1/4} {cup} {canola oil}
+Humba: {1} {tablespoon} {oil}
+Adobo sa Gata: {1} {tablespoon} {canola oil}
+Crispy Chicken Livers a la Bistek: {} {} {canola oil}
+Tinapa Fried Rice: {3} {tablespoons} {canola oil}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {tablespoon} {canola oil}
+Beef Tapa: {2} {tablespoons} {canola oil}
+Pineapple Pork Ribs: {2} {tablespoons} {canola oil}
+Siopao Asado: {1} {tablespoon} {canola oil}
+Escabeche Lapu Lapu: {} {} {canola oil}
+Chicken Adobo: {1/4} {cup} {canola oil}
+Lumpiang Sariwa: {1} {tablespoon } {canola oil}
+Ukoy: {} {} {canola oil}
+Chicken Adobo with Liver Spread: {1} {tablespoon} {canola oil}
+Pork Estofado: {1/4} {cup} {canola oil}
+Adobong Manok sa Patis: {1} {tablespoon} {canola oil}
+Chicken Caldereta: {1/4} {cup} {canola oil}
+Paksiw na Lechon: {1} {tablespoon} {canola oil}
+Inihaw na Liempo: {1} {tablespoon} {canola or sesame oil}
+Sizzling Tofu: {} {} {canola oil}
+Batsui: {1} {tablespoon} {canola oil}
+Chicken Bistek: {1} {tablespoon} {canola oil}
+Pork Pochero: {} {} {canola oil}
+Dinuguan: {1} {tablespoon} {canola oil}
+Pininyahang Manok: {1} {tablespoon} {canola oil}
+Ginataang Hipon: {1} {tablespoon} {canola oil}
+Ginataang Kalabasa, Sitaw at Hipon: {1} {tablespoon} {canola oil}
+Adobong Sitaw with Pork: {1} {tablespoon} {canola oil}
+Laing: {1} {tablespoon} {canola oil}
+Bangus sa Tausi: {} {} {canola oil}
+Bicol Express: {1} {tablespoon} {canola oil}
+Pata Hamonado: {1} {tablespoon} {canola oil}
+Pork Chicharon: {} {} {canola oil}
+Pininyahang Baboy: {1} {tablespoon} {canola oil}
+Pork Afritada: {1/4} {cup} {canola oil}
+Chicken Sopas: {1} {tablespoon} {canola oil}
+Pork Menudo: {2} {tablespoons} {canola oil}
+Chicken Pastel: {1} {tablespoon} {canola oil}
+Chicken Sisig: {1 /2} {cup} {canola oil}
+Binagoongan Baboy: {1} {tablespoon} {canola oil}
+Filipino Pork Barbecue: {1/2} {cup} {sesame oil}
+Chicken Kare-Kare: {1} {tablespoon} {canola oil}
+Filipino-style Fried Chicken: {} {} {canola oil}
+Pata Tim: {3} {tablespoons} {oil}
+Lumpiang Hubad: {} {} {canola oil}
+Lumpia Shanghai: {} {} {canola oil}
+Burger Steak: {2} {tablespoons} {canola oil}
+Pork Embutido: {} {} {canola oil}
+Ginataang Sigarilyas at Kalabasa: {1} {tablespoon} {canola oil}
+Ginisang Sardinas at Miswa: {1} {tablespoon} {canola oil}
+Pork Bistek: {3} {tablespoons} {canola oil}
+Kare-kareng Pata: {1} {tablespoon} {oil}
+Filipino Beef Tapa: {} {} {canola oil}
+Chop Suey with Tofu and Shiitake Mushrooms: {} {} {oil}
+Salt and Pepper Pork Chops: {} {} {canola oil}
+Ginataang Seafood: {1} {tablespoon} {canola oil}
+Pancit Canton: {} {} {canola oil}
+Batchoy Tagalog: {1} {tablespoon} {oil}
+Beef Salpicao: {1} {tablespoon} {olive oil}
+Chicken Tocino: {2} {tablespoons} {canola oil}
+Longganisa: {2} {tablespoons} {oil}
+Spicy Tahong: {4} {tablespoons} {olive oil}
+Adobong Kangkong: {1} {tablespoon} {oil}
+Beef Mechado: {1/4} {cup} {oil}
+Relyenong Bangus: {} {} {oil}
+Tortang Talong: {1/4} {cup} {oil}
+Camaron Rebosado: {} {} {oil}
+Chicken Pochero: {1/4} {cup} {canola oil}
+Arroz Caldo: {1} {tablespoon} {canola oil}
+Bagis: {1} {tablespoon} {canola oil}
+Chop Suey: {3} {tablespoons} {canola oil}
+Tinolang Manok (Chicken Tinola): {1} {tablespoon} {canola oil}
+Pork Adobo: {1} {tablespoon} {oil}
+
+####################
+Fish Sauce
+
+####################
+Pepper
+
+####################
+Paprika
+Longganisa: {2} {teaspoons} {paprika}
+
+####################
+Olive oil
+
+####################
+Chorizo de Bilbao
+
+####################
+Tomato Sauce
+
+####################
+Rice
+
+####################
+Saffron
+Paella: {1} {teaspoon} {saffron threads}
+
+####################
+Evaporated Milk
+
+####################
+Margarine
+
+####################
+Soy Sauce
+Sinigang na Hito sa Miso: {1} {cup} {miso soy paste}
+
+####################
+Mayonnaise
+Baked Cheese Shrimp: {1/2} {cup} {mayonnaise}
+Sizzling Tofu: {1/4} {cup} {mayonnaise}
+Chicken Sisig: {1/4} {cup} {mayonnaise}
+
+####################
+Ground Pepper
+
+####################
+Vinegar
+Bopis: {1/2} {cup} {vinegar}
+Kilawing Puso ng Saging: {1/4} {cup} {vinegar}
+Tokwa’t Baboy with Tausi: {1/2} {cup} {vinegar}
+Buko Pandan Salad: {1} {bottle} {(12 ounces) Kaong, drained}
+Chicken Skin Chicharon: {1/4} {cup} {vinegar}
+Lugaw at Tokwa: {1/2} {cup} {vinegar}
+Adobong Talong: {1/2} {cup} {vinegar}
+Ensaladang Pipino: {1/2} {cup} {vinegar}
+Sinaing na Tulingan: {1/2} {cup} {sukang irok (kaong palm vinegar)}
+Chicken and Pork Adobo: {1} {cup} {vinegar}
+Halo-Halo: {1/2} {cup} {Kaong, drained well}
+Paksiw na Bangus: {1/2} {cup} {vinegar}
+Loslos: {1} {cup} {vinegar}
+Instant Pot Chicken Adobo: {1/2} {cup} {vinegar}
+Kilawing Labanos at Baboy: {1} {cup} {vinegar}
+Adobong Itlog: {1/4} {cup} {vinegar}
+Pork Adobo with Pineapple: {1/2} {cup} {vinegar}
+Humba: {1/4} {cup} {vinegar}
+Adobo sa Gata: {1/2} {cup} {vinegar}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {cup} {vinegar}
+Escabeche Lapu Lapu: {1} {cup} {vinegar}
+Chicken Inasal: {1/2} {cup} {palm vinegar}
+Chicken Adobo: {1/2} {cup} {vinegar}
+Chicken Adobo with Liver Spread: {1} {cup} {vinegar}
+Pork Estofado: {3/4} {cup} {vinegar}
+Adobong Manok sa Patis: {1/2} {cup} {vinegar}
+Paksiw na Lechon: {3/4} {cup} {vinegar}
+Dinuguan: {1} {cup} {vinegar}
+Adobong Sitaw with Pork: {3/4} {cup} {vinegar}
+Pork Chicharon: {1} {cup} {vinegar}
+Sizzling Sisig: {1 } {cup} {vinegar}
+Binagoongan Baboy: {1/4} {cup} {vinegar}
+Filipino Pork Barbecue: {2} {cups} {vinegar}
+Pata Tim: {1/4} {cup} {vinegar}
+Baby Back Ribs with Adobo Glaze: {1} {cup} {vinegar}
+Longganisa: {2} {tablespoons} {vinegar}
+Adobong Kangkong: {1/2} {cup} {vinegar}
+Pork Adobo: {1} {cup} {vinegar}
+
+####################
+Jasmine Rice
+
+####################
+Glutinous Rice
+
+####################
+Cooking Wine
+Sweet and Sour Pork: {1} {tablespoon} {Chinese cooking wine}
+Chicken a la King: {1/2} {cup} {dry sherry wine}
+Pata Tim: {1/2} {cup} {Chinese cooking wine}
+Longganisa: {2} {tablespoons} {anisado wine}
+
+####################
+Sesame Oil
+
+####################
+Tablea Chocolate
+
+####################
+Tablea de Cacao
+
+####################
+Cold Water
+
+####################
+Ice
+Morcon: {2} {} {hot dogs, sliced lengthwise into strips}
+Halo-Halo: {} {} {shaved ice}
+Chicken Sopas: {4} {} {hot dogs, sliced diagonally into 1/2-inch thick}
+
+####################
+Oyster Sauce
+
+####################
+Cornstarch
+
+####################
+Coconut Cream
+
+####################
+Brown Sugar
+
+####################
+Potato
+
+####################
+Sweet Potato
+
+####################
+Hotdog
+
+####################
+Sweet Pickle
+
+####################
+Cheddar Cheese
+
+####################
+Flour
+
+####################
+Oil
+
+####################
+Spring Roll Wrapper
+Pork Siomai: {1} {package} {(30 pieces) shumai wrappers}
+
+####################
+All-Purpose Flour
+
+####################
+Baking Soda
+
+####################
+Vanilla Extract
+Brazo de Mercedes: {1} {teaspoon} {vanilla extract}
+Lengua de Gato: {1} {teaspoon} {vanilla extract}
+Yema Cake: {1} {teaspoons} {vanilla extract}
+
+####################
+Lasagna Noodles
+
+####################
+Italian Seasoning
+Instant Pot Filipino-style Spaghetti: {1} {teaspoon} {Italian seasoning}
+Sizzling Sisig: {1} {tablespoon} {Liquid seasoning (I used Maggi)}
+
+####################
+Spaghetti Noodles
+
+####################
+Spaghetti Sauce
+
+####################
+Quick-melt Cheese
+
+####################
+Bay Leaf
+
+####################
+Miso Soy Paste
+
+####################
+Tamarind Base
+
+####################
+Star Anise
+Siopao Asado: {2} {} {star anise}
+Pata Tim: {3} {pieces} {star anise}
+
+####################
+Fried Garlic
+
+####################
+Corned Beef
+
+####################
+Pickle Juice
+
+####################
+Tomato Paste
+
+####################
+Coffee Granules
+
+####################
+Curry Powder
+
+####################
+Pineapple Juice
+
+####################
+Liver Spread
+
+####################
+Olive
+
+####################
+Green agar-agar
+
+####################
+Red agar-agar
+
+####################
+Coconut Juice
+
+####################
+Pandan Extract
+
+####################
+Salted Black Beans
+
+####################
+Nata De Coco
+
+####################
+Kaong
+
+####################
+Light Cream
+
+####################
+Hot Water
+Instant Pot Filipino-style Spaghetti: {4} {} {Filipino hot dogs, cut on a bias about 1/4-inch thick}
+
+####################
+Pizza Dough
+
+####################
+Lard
+
+####################
+Breadcrumbs
+
+####################
+Bagoong
+
+####################
+Garlic Powder
+
+####################
+Shallot
+
+####################
+MSG
+La Paz Batchoy: {1/4} {teaspoon} {MSG}
+
+####################
+Rock Salt
+
+####################
+Rock Pepper
+
+####################
+Tuna Flakes
+Sinaing na Tulingan: {2 1/2} {pounds} {(about 7 to 8 pieces) tulingan (bullet tuna)}
+
+####################
+Sardines
+
+####################
+Arrowroot Starch
+
+####################
+Worcestershire Sauce
+
+####################
+Pineapple Chunks
+
+####################
+Active Dry Yeast
+Monay: {2 1/4} {teaspoons} {active dry yeast}
+Siopao Bola-Bola: {2} {teaspoons} {instant dry yeast}
+Spicy Tahong: {2} {tablespoons} {dry sherry}
+
+####################
+Powdered Milk
+
+####################
+Sotanghon
+
+####################
+Chinese Wine
+
+####################
+Crab and Corn Mix
+
+####################
+Vegetable Oil
+
+####################
+Gulaman Cube
+
+####################
+Sweetened Bean
+
+####################
+Macapuno
+
+####################
+Shaved Ice
+
+####################
+Ice Cream
+
+####################
+Sesame Seed
+Pork Menudo: {1} {teaspoon} {annatto seeds}
+
+####################
+Red Pepper Flake
+
+####################
+Sriracha Chili Sauce
+
+####################
+White Wine
+
+####################
+Sweet Chili Sauce
+
+####################
+Vegetable Shortening
+
+####################
+Danggit
+Ginataang Langka at Danggit: {8} {pieces} {danggit}
+
+####################
+Tamarind Powder
+
+####################
+Bihon
+Miki Bihon: {1} {package} {(8 ounces) Bihon}
+
+####################
+Sweet Soy Sauce
+Miki Bihon: {1/4} {cup} {kecap manis}
+
+####################
+Roasted Peanuts
+
+####################
+Lomi Noodles
+
+####################
+Graham Cracker Crumbs
+
+####################
+Ground Coriander
+
+####################
+Raw Peanuts
+
+####################
+Cinnamon Stick
+
+####################
+Dried Chili
+
+####################
+Dry Mung Beans
+
+####################
+Banana Ketchup
+Escabeche Lapu Lapu: {2} {tablespoons} {ketchup}
+
+####################
+Cheese
+
+####################
+Salted Duck
+
+####################
+Cocoa
+
+####################
+Rice Vinegar
+
+####################
+Chili Powder
+
+####################
+Cumin
+
+####################
+Short-grain Rice
+
+####################
+Rice Noodle Stick
+
+####################
+Hot Sauce
+
+####################
+Chili Paste
+
+####################
+Fruit Cocktail
+
+####################
+Condensed Cream of Mushroom Soup
+
+####################
+Wonton Wrapper
+
+####################
+Black Pepper
+
+####################
+Chili Garlic Sauce
+
+####################
+Atchuete Powder
+
+####################
+Elbow Macaroni
+
+####################
+Apple Cider Vinegar
+
+####################
+Sweet Pickle Relish
+
+####################
+Black Olive
+
+####################
+Cherry
+
+####################
+Liquid Mango Flavoring
+
+####################
+Cream of Tartar
+
+####################
+Cocoa Powder
+
+####################
+Nutella
+
+####################
+Liquid Pandan Extract
+
+####################
+Pineapple Tidbits
+
+####################
+Raisin
+Pineapple Pork Ribs: {2 } {tablespoons} {raisins}
+Pork Menudo: {1/4} {cup} {raisins}
+Pork Embutido: {1/4} {cup} {raisins}
+Relyenong Bangus: {1/4} {cup} {raisins}
+
+####################
+Red Food Coloring
+
+####################
+Unflavored Gelatin
+
+####################
+Cashew
+
+####################
+Honey
+Baby Back Ribs with Adobo Glaze: {1/2} {cup} {honey}
+
+####################
+Velvetta Cheese
+
+####################
+Fusilli Pasta
+
+####################
+Cinnamon
+
+####################
+Almond Extract
+
+####################
+Buko Pandan Flavor Extract
+
+####################
+Heavy Cream
+
+####################
+Nori Seaweed
+
+####################
+Turmeric
+
+####################
+Miswa
+Batchoy Tagalog: {2} {ounces} {miswa}
+
+####################
+Light Syrup
+
+####################
+Molasses
+
+####################
+Brandy
+
+####################
+Nutmeg
+
+####################
+Allspice
+
+####################
+Barbecue Sauce
+
+####################
+Mirin
+
+####################
+Sake
+
+####################
+Ube Extract
+
+####################
+Langka Extract
+
+####################
+Strawberry Jam
+
+####################
+Seasoning Sauce
+
+####################
+Dulce de Leche
+
+####################
+Lye Water
+
+####################
+Ube Food Coloring
+
+####################
+Gin
+
+####################
+Rum
+
+####################
+Chinese five-spice powder
+
+####################
+Bean Curd Sheet
+
+####################
+Magic Sarap Seasoning Powder
+
+####################
+Orange Food Coloring Powder
+
+####################
+Unflavored Jelly Mix
+
+####################
+Chocolate Chip
+
+####################
+Siomai Wrapper
+
+####################
+Hoisin Sauce
+
+####################
+Simple Syrup
+
+####################
+Kosher Salt
+
+####################
+Ground Peanut
+
+####################
+Egg Roll Wrapper
+
+####################
+Arnibal Syrup
+
+####################
+Banana Essence
+
+####################
+Liquid Seasoning
+
+####################
+Turmeric Powder
+
+####################
+Annato Seed
+
+####################
+Plum Sauce
+
+####################
+Walnut
+
+####################
+Dried Oregano
+
+####################
+Dried Basil
+
+####################
+Cake Flour
+
+####################
+7-Up
+Filipino Pork Barbecue: {3} {cups} {7-up}
+
+####################
+Ube Jam
+
+####################
+Violet Food Color
+
+####################
+Powdered Sugar
+
+####################
+Annatto Powder
+
+####################
+Peanut Butter
+
+####################
+Cornstarch Noodles
+
+####################
+Macadamia Nut
+
+####################
+Sushi Rice
+
+####################
+Instant Coffee
+
+####################
+Dilis
+
+####################
+Dried Ancho Chili
+
+####################
+Dried Guajillo Chili
+
+####################
+Ground Clove
+
+####################
+Tapioca Flour
+
+####################
+Tonkatsu Sauce
+
+####################
+Pinipig
+
+####################
+Femented Tofu
+
+####################
+Sprite
+
+####################
+Dark Beer
+
+####################
+Instant Pancit Canton
+
+####################
+Anisado Wine
+
+####################
+Hog Casing
+Longganisa: {} {} {hog casings}
+
+####################
+Dry Sherry
+
+####################
+Ice Cube
+
+####################
+Saluyot
+
+####################
+Panutsa Syrup
+
+####################
+Pectin
+
+####################
+Goat Head and Feet
+Pinakbet Tagalog: {1/2} {} {small kalabasa, peeled and cut into pieces}
+Pinakbet Tagalog: {1} {} {medium ampalaya (bittermelon), seeded, halved and cut into 1-inch thick}
+Lengua Estofado: {2} {} {medium potatoes, peeled and sliced into 1/2-inch thick}
+Buko Pandan Salad: {4} {drops} {pandan extract}
+Lugaw at Tokwa: {2} {} {shallots, peeled and chopped}
+Puto Maya and Sikwate: {} {} {Manila mangoes, peeled and sliced}
+Pinakbet with Crispy Lechon: {1/2} {} {small kalabasa (kabocha), peeled and cut into pieces}
+Pinakbet with Crispy Lechon: {1} {} {large bitter melon, seeded, halved, and cut into 1-inch thick}
+Ensaladang Pipino: {2} {} {large cucumbers, washed and sliced thinly}
+Taho: {1} {} {pandan leaf, tied into a knot}
+Pancit Lomi Guisado: {1} {} {chayote, peeled and sliced into thin chunks}
+Tinapa Fried Rice: {4} {pieces} {tinapa galunggong, deboned and flaked}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {head} {peeled and minced}
+Pineapple Pork Ribs: {1} {} {large potato, peeled and cut into chunks}
+Ukoy: {1/2} {} {small kalabasa, peeled, seeded and julienned}
+Ukoy: {3} {} {shallots, peeled and sliced thinly}
+Lechon Manok: {4} {} {shallots, peeled and minced}
+Nilagang Baka: {3} {} {corn, husked and cut into halves}
+Sizzling Sisig: {2} {pounds} {pig face (snouts, ears, and jowls)}
+Ginataang Sigarilyas at Kalabasa: {1/2} {} {small kalabasa, peeled, seeded, and cut into chunks}
+Beef Pares: {1} {tablespoon} {salt and more as needed}
+Nilagang Baboy: {1} {} {small calabasa, peeled, seeded and cut into 2-inch chunks}
+
+####################
+Long Beans
+Paella: {4} {cups} {long grain rice}
+Laswa: {1} {} {bunch sitaw}
+
+####################
+Table Cream
+Champorado: {4} {pieces} {tablea chocolate}
+Monay: {4} {cups} {all-purpose flour}
+Lengua de Gato: {1 3/4} {cup} {all-purpose flour}
+Ginisang Munggo at Chicharon: {1} {tablespoon} {vegetable oil}
+Siopao Bola-Bola: {500} {grams} {all-purpose flour}
+Siopao Bola-Bola: {2} {tablespoons} {vegetable oil}
+Pancit Bihon Guisado: {2} {tablespoons} {vegetable oil}
+
+####################
+Kaong Palm Vinegar
+Bopis: {1/2} {cup} {vinegar}
+Kilawing Puso ng Saging: {1/4} {cup} {vinegar}
+Tokwa’t Baboy with Tausi: {1/2} {cup} {vinegar}
+Buko Pandan Salad: {1} {bottle} {(12 ounces) Kaong, drained}
+Chicken Skin Chicharon: {1/4} {cup} {vinegar}
+Lugaw at Tokwa: {1/2} {cup} {vinegar}
+Adobong Talong: {1/2} {cup} {vinegar}
+Ensaladang Pipino: {1/2} {cup} {vinegar}
+Sinaing na Tulingan: {1/2} {cup} {sukang irok (kaong palm vinegar)}
+Chicken and Pork Adobo: {1} {cup} {vinegar}
+Halo-Halo: {1/2} {cup} {Kaong, drained well}
+Paksiw na Bangus: {1/2} {cup} {vinegar}
+Loslos: {1} {cup} {vinegar}
+Instant Pot Chicken Adobo: {1/2} {cup} {vinegar}
+Kilawing Labanos at Baboy: {1} {cup} {vinegar}
+Adobong Itlog: {1/4} {cup} {vinegar}
+Pork Adobo with Pineapple: {1/2} {cup} {vinegar}
+Humba: {1/4} {cup} {vinegar}
+Adobo sa Gata: {1/2} {cup} {vinegar}
+Adobong Paa nang Manok (Chicken Feet Adobo): {1} {cup} {vinegar}
+Escabeche Lapu Lapu: {1} {cup} {vinegar}
+Chicken Inasal: {1/2} {cup} {palm vinegar}
+Chicken Adobo: {1/2} {cup} {vinegar}
+Chicken Adobo with Liver Spread: {1} {cup} {vinegar}
+Pork Estofado: {3/4} {cup} {vinegar}
+Adobong Manok sa Patis: {1/2} {cup} {vinegar}
+Paksiw na Lechon: {3/4} {cup} {vinegar}
+Dinuguan: {1} {cup} {vinegar}
+Adobong Sitaw with Pork: {3/4} {cup} {vinegar}
+Pork Chicharon: {1} {cup} {vinegar}
+Sizzling Sisig: {1 } {cup} {vinegar}
+Binagoongan Baboy: {1/4} {cup} {vinegar}
+Filipino Pork Barbecue: {2} {cups} {vinegar}
+Pata Tim: {1/4} {cup} {vinegar}
+Baby Back Ribs with Adobo Glaze: {1} {cup} {vinegar}
+Longganisa: {2} {tablespoons} {vinegar}
+Adobong Kangkong: {1/2} {cup} {vinegar}
+Pork Adobo: {1} {cup} {vinegar}
+
+####################
+Labanos
+Sinigang na Hito sa Miso: {1} {} {radish, labanos, peeled and cut into 1/-inch thick wedges}
+Kilawing Labanos at Baboy: {1} {} {large labanos, peeled and cut into 1/2-inch strips}
+Sinigang na Salmon Belly sa Kamias: {1} {cup} {labanos (radish), peeled and cut into chunks}
+Sinigang na Baka: {1} {} {(6 inches) radish (labanos), peeled and cut into 1/2-inch thick on a bias}
+
+####################
+Kecap Manis
+Miki Bihon: {1/4} {cup} {kecap manis}
+
+####################
+Upo
+Sotanghon at Upo Soup: {1} {} {medium upo}
+
+####################
+Lapu-Lapu
+Escabeche Lapu Lapu: {1} {} {(2 to 3 pounds) whole Lapu-Lapu}
+
+####################
+Calabasa
+Laswa: {1/2} {} {small calabasa}
+
+####################
